@@ -1,3 +1,61 @@
-Buenos días. Este es el briefing de prueba.
-Hoy no hay noticias importantes que contar.
-Hasta mañana.
+Buenos días, es martes seis de octubre. Este es tu boletín de mercados.
+
+El titular de hoy: las bolsas suben, Wall Street marca récords y el petróleo cede, pero España entra en campaña electoral.
+
+Empezamos por Wall Street. El S&P quinientos ha cerrado con una subida de casi seis décimas, hasta unos siete mil ochocientos veinte puntos. El Dow Jones ha ganado casi medio por ciento. El Nasdaq cien ha subido unas cinco décimas. Según El Financiero, el S&P y el Nasdaq han marcado nuevos máximos históricos, impulsados por las grandes tecnológicas ligadas a la inteligencia artificial.
+
+Esto importa porque el mercado sigue comprando tecnología pese a unos bonos exigentes. Según Benzinga, el bono estadounidense a diez años ronda el cinco coma tres por ciento, cerca de máximos desde dos mil dos. Es un dato de una fuente automatizada, y no he podido contrastarlo con otra.
+
+Sí hay un alivio en las expectativas sobre la Reserva Federal. Según Benzinga, la probabilidad que el mercado da a una subida de tipos en octubre ha caído a un veinticuatro por ciento. Hace una semana era del setenta y uno. Si el petróleo sigue bajando, esa presión inflacionista podría suavizarse.
+
+En Europa, la sesión ha sido verde. El Euro Stoxx cincuenta ha subido casi medio por ciento. El DAX alemán ha ganado unas ocho décimas, hasta unos veinticinco mil cuatrocientos cincuenta puntos. El CAC francés ha subido cuatro décimas. No he podido confirmar el cierre del FTSE cien con mi fuente de datos.
+
+El euro cotiza en torno a uno coma ciento veintiséis dólares. Gana unas cuatro décimas en el día.
+
+Pasamos al petróleo. El Brent ha caído en torno a un dos por ciento y ronda los noventa y ocho o noventa y nueve dólares el barril. El West Texas cotiza cerca de ochenta y ocho dólares. Las cifras de ayer, según la agencia AFP, eran un Brent de cien dólares para entrega en diciembre y un West Texas de ochenta y nueve para noviembre.
+
+¿Por qué baja? Según AFP, las exportaciones de crudo de Oriente Medio, sin contar Irán, ya superan el nivel previo a la guerra. Además, los países del G7 se han comprometido a liberar cien millones de barriles de reservas. Y según Bolsamanía, la OPEP plus mantiene su producción.
+
+Pero el riesgo sigue vivo. Eurasia Group advierte de un riesgo importante de nueva escalada entre Irán y Estados Unidos. El presidente iraní ha dicho que negociar con Washington no tiene sentido. Y un ataque de los hutíes ha vuelto a interrumpir el oleoducto saudí Este-Oeste. Por tanto, el abaratamiento podría ser frágil. Esto es una valoración, no un hecho.
+
+Pasamos a las noticias de portada. La primera tiene que ver con Francia. La deuda francesa ha dado un respiro hoy, pero la tensión fiscal sigue en el ambiente. Según el Instituto de Estadística francés, la deuda pública alcanzó el ciento diecinueve por ciento del PIB en el segundo trimestre. El gobernador del Banco de Francia ha avisado de que el país puede verse asfixiado por los tipos de interés. Esto importa a cualquier inversor europeo: si París se tensa, se encarece la financiación de todo el continente.
+
+La segunda es política económica en España. Pedro Sánchez ha convocado elecciones generales para el veintinueve de noviembre. El Ibex ha reaccionado con calma. Según XTB, el efecto dependerá más de las propuestas fiscales y regulatorias que de la convocatoria en sí. Sobre todo en banca, socimis y energía. Lo veremos con más detalle en el bloque de España.
+
+La tercera, la inteligencia artificial. Es un tema con novedades, aunque no todas son de hoy. Según medios como Ars Technica o CNET, citados por un portal de startups, el veintinueve de septiembre la Casa Blanca firmó un pacto de seguridad con seis grandes empresas del sector. Entre ellas Nvidia, Google, Meta y OpenAI. No tiene fuerza legal, ni multas, ni un organismo que vigile su cumplimiento. Los críticos lo ven como autorregulación.
+
+Hoy hay además otra novedad: según ABC News de Australia, OpenAI ha pedido disculpas en persona por un incidente con uno de sus agentes en un portal público australiano. La noticia importa por el riesgo regulatorio para las grandes tecnológicas. De momento no he visto efecto directo en cotizaciones.
+
+Y en financiación de infraestructura de IA, la empresa de computación Lambda, respaldada por Nvidia, prepara una ronda de unos cuatro mil millones de dólares, según Breaking the News. Valoraría la compañía en unos catorce mil quinientos millones antes de la ronda, y se prepara para salir a bolsa en dos mil veintisiete. Señala que el apetito por capacidad de cálculo sigue muy vivo.
+
+Pasamos a España. El Ibex treinta y cinco ha cerrado con una subida de tres cuartos por ciento, hasta unos diecinueve mil cuatrocientos cuarenta puntos. Son tres sesiones seguidas al alza. En la mañana llegó a superar los diecinueve mil quinientos.
+
+La estrella ha sido Banco Sabadell, que ha subido casi tres por ciento. El motivo está en la CNMV. Esta mañana, el banco comunicó una nota conjunta con el grupo francés BPCE. BPCE ha adquirido de forma amistosa una participación de en torno al siete por ciento. Según Benzinga, quiere ser accionista estable, aspira a tener representación en el consejo y no prevé superar el nueve coma nueve por ciento. Ambas entidades explorarán cooperación en banca corporativa, consumo y leasing, con la idea de concluir las conversaciones a comienzos de dos mil veintisiete.
+
+Es una lectura relevante: refuerza la independencia de Sabadell y aleja, por ahora, un escenario de consolidación hostil. Que esto sea definitivo es una interpretación mía.
+
+En el lado negativo, Ferrovial ha bajado algo más de un por ciento. JPMorgan ha rebajado su recomendación y su precio objetivo. Tiene dudas sobre la rentabilidad y las necesidades de capital de su proyecto de carriles de peaje en Tennessee.
+
+Otras noticias de empresas. Según Bolsamanía, Neinor Homes sube con fuerza tras mejorar sus previsiones y anunciar una sociedad conjunta con Orion. Según Benzinga, Morgan Stanley ve valor en la banca europea tras las caídas, y cita a Santander. Y Jefferies ve oportunidades para la banca española ante un posible giro político.
+
+En economía, la producción industrial española frenó en agosto su crecimiento hasta el uno coma seis por ciento, según Bolsamanía.
+
+Volvamos a la campaña. Según XTB, una rebaja del impuesto a la banca beneficiaría a CaixaBank, que contabilizó trescientos cuatro millones por ese gravamen en el primer semestre. En el caso de Merlin y de las renovables, dependerá de las reglas sobre centros de datos. Y Endesa, del futuro de las nucleares. Son escenarios, no hechos, y dependen del resultado electoral.
+
+Un dato de contexto: según XTB, el Ibex acumula con dividendos una rentabilidad de ciento setenta y dos por ciento durante el mandato de Sánchez. Eso son casi trece por ciento al año. Las gestoras, según Europa Press, discrepan sobre el impacto a corto plazo de la convocatoria.
+
+Sobre la CNMV, en los últimos tres días el único hecho relevante que he podido ver en su página es el de Sabadell y BPCE.
+
+Terminamos con startups españolas. Tres operaciones.
+
+Primera: Kompanion, una startup barcelonesa fundada en dos mil veinticinco, ha cerrado su primera ronda de ochocientos mil euros, según el portal Ecosistema Startup. Desarrolla gestión de empresas con inteligencia artificial.
+
+Segunda: Niubiq, especializada en analizar los contactos comerciales de las empresas, ha cerrado una ronda de cuatrocientos diez mil euros. La lidera Angels Capital, la sociedad de inversión de Juan Roig, según El Español.
+
+Tercera: Bcas, la fintech de pagos a plazos para estudiantes, desembarca en Alemania tras comprar Lendorse, según El Español. En febrero cerró una ronda de treinta millones de euros, liderada por MyInvestor.
+
+Y una mención europea. Según El Español, el fondo español Seaya invierte en la ronda de treinta y cinco millones de euros de la francesa Wiremind, cuyo software usan Ouigo y Alsa.
+
+Lo que hay que vigilar hoy. Uno: la evolución de los bonos, tanto el estadounidense a diez años como la deuda francesa. Dos: el petróleo y las noticias de Oriente Medio. Tres: las reacciones de los analistas a la campaña electoral en España y los movimientos en Sabadell.
+
+Hasta aquí el boletín. Que tengas buen día y buena caminata.
