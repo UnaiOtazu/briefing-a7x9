@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Briefing matinal</title>
+</head>
+<body>
+  <h1>Briefing matinal</h1>
+  <p>URL del feed (añádela en Apple Podcasts → Archivo → Seguir un programa por URL):</p>
+  <p><code id="feed"></code></p>
+  <script>
+    // Se calcula a partir de la dirección de esta misma página
+    document.getElementById("feed").textContent = new URL("feed.xml", location.href).href;
+  </script>
+</body>
+</html>
