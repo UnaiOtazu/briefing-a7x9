@@ -1,61 +1,85 @@
-Buenos días, es martes seis de octubre. Este es tu boletín de mercados.
+Buenos días, es miércoles siete de octubre. Este es tu boletín de mercados.
 
-El titular de hoy: las bolsas suben, Wall Street marca récords y el petróleo cede, pero España entra en campaña electoral.
+El titular de hoy: Wall Street marca otro récord, pero el petróleo rebota en Asia por los ataques de Irán a petroleros. Hoy, todos los ojos en las actas de la Reserva Federal.
 
-Empezamos por Wall Street. El S&P quinientos ha cerrado con una subida de casi seis décimas, hasta unos siete mil ochocientos veinte puntos. El Dow Jones ha ganado casi medio por ciento. El Nasdaq cien ha subido unas cinco décimas. Según El Financiero, el S&P y el Nasdaq han marcado nuevos máximos históricos, impulsados por las grandes tecnológicas ligadas a la inteligencia artificial.
+Empezamos por Wall Street. El S&P quinientos cerró con una subida de casi seis décimas, hasta unos siete mil ochocientos veinte puntos. Es un nuevo máximo histórico.
 
-Esto importa porque el mercado sigue comprando tecnología pese a unos bonos exigentes. Según Benzinga, el bono estadounidense a diez años ronda el cinco coma tres por ciento, cerca de máximos desde dos mil dos. Es un dato de una fuente automatizada, y no he podido contrastarlo con otra.
+El Nasdaq ganó unas cuatro décimas y media, y el Dow Jones, casi medio por ciento. Los chips volvieron a tirar. Nvidia marcó otro máximo, y Marvell se disparó cerca de un diez por ciento.
 
-Sí hay un alivio en las expectativas sobre la Reserva Federal. Según Benzinga, la probabilidad que el mercado da a una subida de tipos en octubre ha caído a un veinticuatro por ciento. Hace una semana era del setenta y uno. Si el petróleo sigue bajando, esa presión inflacionista podría suavizarse.
+Marvell subió porque elevó sus previsiones en su día de inversores. Según la propia compañía, espera unos veinte mil millones de dólares de ingresos en su ejercicio dos mil veintiocho. Es una señal más de que la demanda ligada a la inteligencia artificial sigue fuerte.
 
-En Europa, la sesión ha sido verde. El Euro Stoxx cincuenta ha subido casi medio por ciento. El DAX alemán ha ganado unas ocho décimas, hasta unos veinticinco mil cuatrocientos cincuenta puntos. El CAC francés ha subido cuatro décimas. No he podido confirmar el cierre del FTSE cien con mi fuente de datos.
+En Europa, la sesión también fue buena. Según Tiempo de Inversión, el Dax alemán subió unas ocho décimas y el Euro Stoxx cincuenta casi medio por ciento. El Cac francés ganó cuatro décimas.
 
-El euro cotiza en torno a uno coma ciento veintiséis dólares. Gana unas cuatro décimas en el día.
+Pero ojo con los datos. Los pedidos industriales de Alemania cayeron en agosto más de diez por ciento sobre el mes anterior, mucho peor de lo esperado. Las ventas minoristas de la zona euro subieron menos de lo previsto.
 
-Pasamos al petróleo. El Brent ha caído en torno a un dos por ciento y ronda los noventa y ocho o noventa y nueve dólares el barril. El West Texas cotiza cerca de ochenta y ocho dólares. Las cifras de ayer, según la agencia AFP, eran un Brent de cien dólares para entrega en diciembre y un West Texas de ochenta y nueve para noviembre.
+Vamos con los bonos, que son la clave de estos días. La rentabilidad del bono estadounidense a diez años bajó ayer dos puntos básicos, hasta alrededor del cinco coma tres por ciento. Un día antes había tocado su nivel más alto desde dos mil dos.
 
-¿Por qué baja? Según AFP, las exportaciones de crudo de Oriente Medio, sin contar Irán, ya superan el nivel previo a la guerra. Además, los países del G7 se han comprometido a liberar cien millones de barriles de reservas. Y según Bolsamanía, la OPEP plus mantiene su producción.
+Esta madrugada ha vuelto a subir unos tres puntos básicos, según CoinDesk. La razón está en el petróleo.
 
-Pero el riesgo sigue vivo. Eurasia Group advierte de un riesgo importante de nueva escalada entre Irán y Estados Unidos. El presidente iraní ha dicho que negociar con Washington no tiene sentido. Y un ataque de los hutíes ha vuelto a interrumpir el oleoducto saudí Este-Oeste. Por tanto, el abaratamiento podría ser frágil. Esto es una valoración, no un hecho.
+El Brent, el contrato de referencia en Londres, cerró ayer por debajo de los cien dólares. Cayó cerca de dos por ciento, hasta unos noventa y ocho dólares y medio. El petrolero estadounidense, el West Texas, bajó hasta unos ochenta y ocho.
 
-Pasamos a las noticias de portada. La primera tiene que ver con Francia. La deuda francesa ha dado un respiro hoy, pero la tensión fiscal sigue en el ambiente. Según el Instituto de Estadística francés, la deuda pública alcanzó el ciento diecinueve por ciento del PIB en el segundo trimestre. El gobernador del Banco de Francia ha avisado de que el país puede verse asfixiado por los tipos de interés. Esto importa a cualquier inversor europeo: si París se tensa, se encarece la financiación de todo el continente.
+Esta madrugada, en Asia, el Brent ha rebotado cerca de un uno por ciento, hasta unos ciento un dólares. Según CoinDesk, Irán ha intensificado sus ataques a petroleros en el estrecho de Ormuz. Las bolsas asiáticas han cedido seis décimas y los futuros de Wall Street han dado la vuelta.
 
-La segunda es política económica en España. Pedro Sánchez ha convocado elecciones generales para el veintinueve de noviembre. El Ibex ha reaccionado con calma. Según XTB, el efecto dependerá más de las propuestas fiscales y regulatorias que de la convocatoria en sí. Sobre todo en banca, socimis y energía. Lo veremos con más detalle en el bloque de España.
+Hay un matiz importante. Según XTB, los flujos de crudo de Oriente Medio ya rondan el ochenta por ciento de los niveles previos al conflicto. Es decir, el suministro se recupera, aunque con riesgo. Y la Agencia Internacional de la Energía definirá los detalles de la liberación de reservas del G7 el catorce y el quince de octubre.
 
-La tercera, la inteligencia artificial. Es un tema con novedades, aunque no todas son de hoy. Según medios como Ars Technica o CNET, citados por un portal de startups, el veintinueve de septiembre la Casa Blanca firmó un pacto de seguridad con seis grandes empresas del sector. Entre ellas Nvidia, Google, Meta y OpenAI. No tiene fuerza legal, ni multas, ni un organismo que vigile su cumplimiento. Los críticos lo ven como autorregulación.
+En divisas, el euro rondaba ayer al cierre europeo los uno coma doce dólares. Hoy se mueve algo más débil. No he podido confirmar un cierre exacto del cruce.
 
-Hoy hay además otra novedad: según ABC News de Australia, OpenAI ha pedido disculpas en persona por un incidente con uno de sus agentes en un portal público australiano. La noticia importa por el riesgo regulatorio para las grandes tecnológicas. De momento no he visto efecto directo en cotizaciones.
+El oro recuperó terreno y cerró cerca de cuatro mil ciento noventa dólares la onza. Es una subida de unas ocho décimas. Según Tiempo de Inversión, ayudó la bajada del crudo y de los bonos.
 
-Y en financiación de infraestructura de IA, la empresa de computación Lambda, respaldada por Nvidia, prepara una ronda de unos cuatro mil millones de dólares, según Breaking the News. Valoraría la compañía en unos catorce mil quinientos millones antes de la ronda, y se prepara para salir a bolsa en dos mil veintisiete. Señala que el apetito por capacidad de cálculo sigue muy vivo.
+Hoy toca la Reserva Federal. Se publican las actas de la reunión de septiembre, en la que el banco central subió los tipos un cuarto de punto. Según LVRG Research, el mercado ya tenía esa subida descontada.
 
-Pasamos a España. El Ibex treinta y cinco ha cerrado con una subida de tres cuartos por ciento, hasta unos diecinueve mil cuatrocientos cuarenta puntos. Son tres sesiones seguidas al alza. En la mañana llegó a superar los diecinueve mil quinientos.
+La duda es el tono. Los inversores quieren saber si los miembros del comité ven otra subida este año. Tras unos datos de empleo más flojos, la probabilidad de una subida en octubre ha bajado, según TheStreet, hasta cerca del veinte por ciento. Además, el Tesoro subasta hoy treinta y nueve mil millones de dólares en bonos a diez años.
 
-La estrella ha sido Banco Sabadell, que ha subido casi tres por ciento. El motivo está en la CNMV. Esta mañana, el banco comunicó una nota conjunta con el grupo francés BPCE. BPCE ha adquirido de forma amistosa una participación de en torno al siete por ciento. Según Benzinga, quiere ser accionista estable, aspira a tener representación en el consejo y no prevé superar el nueve coma nueve por ciento. Ambas entidades explorarán cooperación en banca corporativa, consumo y leasing, con la idea de concluir las conversaciones a comienzos de dos mil veintisiete.
+Pasamos a las noticias de portada. La primera es Francia. El Wall Street Journal lleva a portada la situación fiscal francesa. Habla de una bomba de deuda y de uno de los eslabones más débiles de Europa.
 
-Es una lectura relevante: refuerza la independencia de Sabadell y aleja, por ahora, un escenario de consolidación hostil. Que esto sea definitivo es una interpretación mía.
+La deuda pública francesa ronda el ciento veinte por ciento del producto interior bruto. El diferencial con el bono alemán a diez años bajó el lunes a ciento treinta y seis puntos básicos. La semana anterior superaba los ciento cincuenta. Pero Francia paga más por financiarse a largo plazo.
 
-En el lado negativo, Ferrovial ha bajado algo más de un por ciento. JPMorgan ha rebajado su recomendación y su precio objetivo. Tiene dudas sobre la rentabilidad y las necesidades de capital de su proyecto de carriles de peaje en Tennessee.
+Según Bolsamanía, un fondo de bonos de Sumitomo Mitsui habría vendido toda su deuda francesa. Los inversores japoneses tienen unos ciento cuarenta mil millones de euros en ese mercado. Si repatriaran parte, la presión sobre Europa podría crecer. Es una posibilidad, no un hecho.
 
-Otras noticias de empresas. Según Bolsamanía, Neinor Homes sube con fuerza tras mejorar sus previsiones y anunciar una sociedad conjunta con Orion. Según Benzinga, Morgan Stanley ve valor en la banca europea tras las caídas, y cita a Santander. Y Jefferies ve oportunidades para la banca española ante un posible giro político.
+Segunda portada: España, con novedades. Pedro Sánchez anunció el lunes elecciones generales para el veintinueve de noviembre. Ayer, tras el Consejo de Ministros, el Gobierno volvió a aprobar los decretos de vivienda que el Congreso había tumbado.
 
-En economía, la producción industrial española frenó en agosto su crecimiento hasta el uno coma seis por ciento, según Bolsamanía.
+Y hay una novedad con efecto económico. Los sindicatos preparan una huelga general por la vivienda en noviembre. Según El País, CC OO y UGT ya la apoyan, y también los sindicatos ELA, LAB y CIG. Aún no hay fecha.
 
-Volvamos a la campaña. Según XTB, una rebaja del impuesto a la banca beneficiaría a CaixaBank, que contabilizó trescientos cuatro millones por ese gravamen en el primer semestre. En el caso de Merlin y de las renovables, dependerá de las reglas sobre centros de datos. Y Endesa, del futuro de las nucleares. Son escenarios, no hechos, y dependen del resultado electoral.
+La opción más plausible es la primera semana de noviembre. Otras voces apuntan a los días diez y once. La patronal, CEOE y Cepyme, la ve como una medida de presión política y critica que se traslade su coste a las empresas.
 
-Un dato de contexto: según XTB, el Ibex acumula con dividendos una rentabilidad de ciento setenta y dos por ciento durante el mandato de Sánchez. Eso son casi trece por ciento al año. Las gestoras, según Europa Press, discrepan sobre el impacto a corto plazo de la convocatoria.
+Si sigue adelante, una huelga general tan cerca de las urnas añade ruido para empresas y mercado. Es una interpretación, pero conviene tenerla en el radar.
 
-Sobre la CNMV, en los últimos tres días el único hecho relevante que he podido ver en su página es el de Sabadell y BPCE.
+Tercera portada, con un tema de inteligencia artificial. La francesa Mistral ha presentado Mistral Large cuatro. Según la propia empresa, supera significativamente a cualquier modelo de pesos abiertos de Estados Unidos o Europa.
 
-Terminamos con startups españolas. Tres operaciones.
+Es una afirmación de la compañía, que no he visto contrastada por terceros. Aun así, importa. Refuerza la apuesta europea por modelos abiertos y presiona los precios de la IA para empresas. Habrá que ver si los clientes lo confirman.
 
-Primera: Kompanion, una startup barcelonesa fundada en dos mil veinticinco, ha cerrado su primera ronda de ochocientos mil euros, según el portal Ecosistema Startup. Desarrolla gestión de empresas con inteligencia artificial.
+Cuarta portada, Brasil. El Bovespa se disparó un siete coma siete por ciento el lunes. Flávio Bolsonaro quedó mejor de lo esperado en la primera vuelta de las presidenciales. Según Bolsamanía, el mercado lo leyó como más disciplina fiscal.
 
-Segunda: Niubiq, especializada en analizar los contactos comerciales de las empresas, ha cerrado una ronda de cuatrocientos diez mil euros. La lidera Angels Capital, la sociedad de inversión de Juan Roig, según El Español.
+Pasamos a España cotizada. El Ibex treinta y cinco cerró ayer con una subida de tres cuartos de punto, hasta unos diecinueve mil cuatrocientos cuarenta puntos. Es su segunda sesión seguida de rebotes, después de caer un tres por ciento la semana pasada.
 
-Tercera: Bcas, la fintech de pagos a plazos para estudiantes, desembarca en Alemania tras comprar Lendorse, según El Español. En febrero cerró una ronda de treinta millones de euros, liderada por MyInvestor.
+La gran noticia fue Banco Sabadell. Subió casi tres por ciento. El grupo francés BPCE compró en torno a un siete por ciento del capital, unos mil doscientos millones de euros, según Tiempo de Inversión.
 
-Y una mención europea. Según El Español, el fondo español Seaya invierte en la ronda de treinta y cinco millones de euros de la francesa Wiremind, cuyo software usan Ouigo y Alsa.
+Según el hecho relevante enviado a la CNMV, BPCE quiere ser accionista estable. Busca representación en el consejo y no superará el nueve coma nueve por ciento. Ambas entidades explorarán cooperar en banca corporativa, leasing, consumo y negocio internacional.
 
-Lo que hay que vigilar hoy. Uno: la evolución de los bonos, tanto el estadounidense a diez años como la deuda francesa. Dos: el petróleo y las noticias de Oriente Medio. Tres: las reacciones de los analistas a la campaña electoral en España y los movimientos en Sabadell.
+Entre las subidas, Solaria lideró con casi cuatro y medio por ciento. Le siguieron Acciona Energía, con más de dos y medio, Puig y Grifols, con más de dos.
 
-Hasta aquí el boletín. Que tengas buen día y buena caminata.
+Entre las bajadas, Telefónica perdió casi uno y medio por ciento. Repsol cayó lo mismo, arrastrada por el crudo. Acerinox, Ferrovial y Naturgy también cerraron en rojo.
+
+Hablando de Repsol, ha adelantado datos del tercer trimestre. El margen de refino en España alcanzó treinta y seis dólares por barril, más de cuatro veces el de hace un año. Los resultados completos llegan el veintinueve de octubre.
+
+En deuda, el bono español a diez años bajó al cuatro coma uno por ciento. La prima de riesgo ronda los sesenta y cinco puntos básicos. El Tesoro colocó unos seis mil quinientos millones de euros en letras a seis y doce meses, con rentabilidades algo más altas.
+
+En la CNMV, en los últimos tres días, solo he podido ver publicado el hecho relevante de Sabadell. Puede que la página no muestre todo, así que tómalo con cautela.
+
+Vamos con las startups españolas. La barcelonesa Kompanion, fundada en dos mil veinticinco, ha cerrado su primera ronda, de ochocientos mil euros. Ofrece gestión de empresas con inteligencia artificial.
+
+Niubiq, de Castellón, levanta cuatrocientos diez mil euros. La lidera Angels Capital, la sociedad de inversión de Juan Roig. Se dedica a analizar contactos comerciales de las empresas.
+
+El fondo español Seaya ha entrado en la ronda de treinta y cinco millones de euros de la francesa Wiremind. Su software de inteligencia artificial se usa en transporte, con clientes como Ouigo y Alsa. Los cofundadores siguen siendo accionistas mayoritarios.
+
+Y la fintech española Bcas desembarca en Alemania tras comprar Lendorse. En febrero había cerrado una ronda de treinta millones de euros liderada por MyInvestor. Es un paso hacia el negocio de formación en Europa.
+
+Cerramos con lo que hay que vigilar hoy.
+
+Primero, las actas de la Reserva Federal, esta tarde. El tono sobre nuevas subidas moverá bonos y dólar.
+
+Segundo, el petróleo y Ormuz. Si el Brent sigue por encima de cien dólares, los bonos y las bolsas lo notarán.
+
+Tercero, la fecha de la huelga general en España y la reacción de la patronal.
+
+Eso es todo por hoy. Buen día, y buenos mercados.
