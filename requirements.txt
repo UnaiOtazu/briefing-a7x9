@@ -1,1 +1,3 @@
-edge-tts
+# 7.3.0+ usa el nuevo token Sec-MS-GEC v2 que exige Microsoft desde oct-2026
+# (las versiones anteriores reciben error 403 al conectar)
+edge-tts>=7.3.1
