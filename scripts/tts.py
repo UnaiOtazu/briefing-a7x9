@@ -11,6 +11,7 @@ import edge_tts
 
 VOZ = "es-ES-AlvaroNeural"
 RAIZ = Path(__file__).resolve().parent.parent
+INTENTOS = 3  # el servicio de Microsoft a veces falla de forma puntual
 
 
 async def main():
@@ -25,8 +26,16 @@ async def main():
     salida = RAIZ / "docs" / "episodes" / f"{hoy}.mp3"
     salida.parent.mkdir(parents=True, exist_ok=True)
 
-    # Generamos el audio y lo guardamos
-    await edge_tts.Communicate(texto, VOZ).save(str(salida))
+    # Generamos el audio y lo guardamos; si falla, esperamos y reintentamos
+    for intento in range(1, INTENTOS + 1):
+        try:
+            await edge_tts.Communicate(texto, VOZ).save(str(salida))
+            break
+        except Exception as error:
+            print(f"Intento {intento} de {INTENTOS} fallido: {error!r}")
+            if intento == INTENTOS:
+                raise
+            await asyncio.sleep(30 * intento)
     print(f"Creado {salida} ({salida.stat().st_size} bytes)")
 
 

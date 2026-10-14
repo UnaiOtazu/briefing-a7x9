@@ -43,8 +43,10 @@ def main():
     items = []
     for mp3 in mp3s:
         fecha = mp3.stem
-        # Publicación: 07:00 hora de Madrid del día del episodio
-        pub = datetime.strptime(fecha, "%Y-%m-%d").replace(hour=7, tzinfo=MADRID)
+        # Publicación: 05:00 hora de Madrid del día del episodio. Tiene que ser
+        # anterior a la hora real de generación (~05:50): algunas apps ocultan
+        # los episodios con fecha futura hasta que llega esa hora
+        pub = datetime.strptime(fecha, "%Y-%m-%d").replace(hour=5, tzinfo=MADRID)
         url = f"{base}episodes/{mp3.name}"
         items.append(f"""    <item>
       <title>Briefing {fecha}</title>
