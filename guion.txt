@@ -1,105 +1,75 @@
-Buenos días, es jueves quince de octubre. Este es tu boletín de mercados.
+Buenos días, es lunes diecinueve de octubre. Este es tu boletín de mercados.
 
-El titular de hoy: la inflación estadounidense sorprende al alza y desata una fuerte venta en los valores de inteligencia artificial. Esta mañana el golpe llega a Asia, con Corea del Sur suspendiendo un rato la negociación.
+El titular de hoy: Wall Street cierra su peor semana tecnológica desde junio por las dudas sobre la deuda de la inteligencia artificial. Y esta semana llegan las cuentas de Meta y Tesla.
 
-Empezamos por Wall Street. El S&P quinientos cayó algo más de uno por ciento el miércoles, hasta unos siete mil setecientos veinte puntos. Según Reuters, es su mayor caída diaria desde finales de julio.
+Empezamos por Wall Street. El viernes el S&P quinientos cayó algo más de uno por ciento, hasta unos siete mil seiscientos sesenta puntos. El Nasdaq se dejó algo más de dos por ciento. Y el Dow Jones cedió apenas tres décimas.
 
-El Nasdaq se dejó casi dos por ciento. El Dow Jones aguantó mejor y apenas cedió una décima.
+En la semana, el Nasdaq pierde cuatro y medio por ciento. El S&P pierde casi dos. El Dow, en cambio, sube siete décimas. La caída no ha sido general. Ha sido muy concentrada en tecnología.
 
-La causa fue el índice de precios de consumo de septiembre. La inflación anual subió al tres coma siete por ciento. Los analistas esperaban tres coma seis, y en agosto fue tres coma cuatro.
+Dentro de ese castigo destacan los semiconductores. Micron y Intel perdieron más de cinco por ciento cada una. Y CoreWeave, la empresa de computación para inteligencia artificial, se hundió casi doce por ciento. Acumula una caída de una cuarta parte en cinco sesiones.
 
-La subyacente, sin energía ni alimentos, subió al dos coma seis por ciento anual. También superó las previsiones. Según Trading Economics, la gasolina explica más de la mitad de la subida mensual.
+Aquí está la clave de la semana. El problema ya no es la demanda de inteligencia artificial. Es cuánto cuesta financiarla. Según Reuters, unos bonos de CoreWeave emitidos en junio con una rentabilidad de casi diez por ciento llegaron a exigir cerca de quince.
 
-¿Por qué importa? Porque reaviva la idea de que la Reserva Federal tendrá que volver a subir tipos. La Fed ya los subió en septiembre.
+Goldman Sachs, según Business Insider, señala que la deuda de alto riesgo ligada a la inteligencia artificial paga más de trescientos cincuenta puntos básicos sobre el Tesoro. La de centros de datos supera los cuatrocientos. Una deuda comparable ajena a la inteligencia artificial ronda los doscientos cincuenta.
 
-El mercado ya da cerca de la mitad de probabilidades a otra subida a finales de octubre. Benzinga habla de un cuarenta y cinco y El Boletín de un cuarenta y siete. Un día antes rondaba el veintidós.
+Por qué importa. Si el crédito se encarece, los proyectos de centros de datos necesitan más rentabilidad para salir adelante. El efecto puede llegar a proveedores de chips, energía y banca. Pero ojo con la lectura. Es una señal de riesgo, no una crisis demostrada. Y las grandes tecnológicas tienen balances mucho más sólidos.
 
-Según Reuters, Citi cambia de opinión y ahora espera una subida en diciembre. En cambio, Kevin Hassett, asesor económico de la Casa Blanca, dijo que la subyacente de este mes es un tropiezo puntual. Son dos valoraciones, no hechos.
+El otro factor es la Reserva Federal. Tras un dato de inflación estadounidense peor de lo esperado el miércoles, el presidente de la Fed, Kevin Warsh, no se comprometió el viernes a subir tipos. Lo dijo en las reuniones del Fondo Monetario en Bangkok. Según una crónica de Finanzas punto com, los futuros descuentan ahora una probabilidad de subida de en torno a quince por ciento. Había superado el veinticinco el jueves.
 
-El castigo se concentró en las empresas de infraestructura de inteligencia artificial, muy sensibles a los tipos. Oracle cayó casi nueve por ciento. CoreWeave se desplomó un quince por ciento y Nebius un diez.
+En bonos, El Boletín sitúa el diez años estadounidense en torno a cinco coma uno por ciento. No he podido contrastar ese dato con una segunda fuente. Tómalo con cautela.
 
-Dell perdió más de once por ciento y Hewlett Packard Enterprise más de ocho, después de que Barclays rebajara su recomendación sobre ambas. El índice de semiconductores de Filadelfia bajó más de cuatro por ciento. Encadena seis sesiones de caídas.
+Pasamos a Europa. Las bolsas aguantaron mucho mejor que Nueva York. Según Finanzas punto com, a media sesión el Euro Stoxx cincuenta subía medio por ciento y el DAX alemán, en torno a uno. Los inversores rotaron hacia sectores menos expuestos a la inteligencia artificial. No he podido confirmar los cierres definitivos de esos índices.
 
-En la otra cara, Apple subió medio punto. Según Reuters, cerró por primera vez con un valor en bolsa por encima de los cinco billones de dólares.
+En divisas, el euro dólar se mueve cerca de uno doce veintitrés, según los datos de EODHD. Es un dato del cierre de la semana. Esta mañana no he podido confirmar movimientos.
 
-En banca, Bank of America cayó casi cinco por ciento. Morgan Stanley bajó cerca de tres, pese a mejorar su beneficio trimestral.
+En petróleo, el Brent, contrato de diciembre, ronda los ciento cinco dólares. Un medio especializado dice que cerró el viernes en ciento cuatro, con una caída de dos por ciento. Hay pequeñas discrepancias entre fuentes, pero el nivel es el mismo. Sigue alto por la guerra en Irán. Un crudo así alimenta la inflación y complica la tarea de los bancos centrales, el Banco Central Europeo incluido. En oro y otras materias primas no he podido confirmar cotizaciones fiables.
 
-Y tras el cierre siguió la presión. Según Reuters, CoreWeave perdió otro seis por ciento fuera de hora. La rentabilidad de su deuda con vencimiento en dos mil treinta y dos superó el quince por ciento.
+Esta mañana tampoco he podido verificar cómo abren Asia ni los futuros. Lo dejo ahí, sin estimar nada.
 
-Según esa misma agencia, el miedo de fondo es la deuda de los centros de datos. Algunos podrían no aguantar hasta que llegue el retorno de la inversión. Es una preocupación de mercado, no un impago.
+Ahora, las noticias de portada.
 
-Esta mañana, Asia. Según Reuters, el Kospi surcoreano llegó a caer un ocho por ciento y activó el freno automático de negociación. Es la primera vez desde julio.
+Primera. Francia. El sábado salieron a la calle cientos de miles de personas. Según el Ministerio del Interior, fueron unas quinientas cincuenta mil. Los organizadores hablan de más de ochocientas mil. Protestaban por el coste de la vida, la educación y los recortes.
 
-Samsung cayó casi un diez por ciento y SK Hynix más de once. Según la BBC, el Nikkei japonés perdió más de un cinco por ciento y Softbank más de nueve.
+Hubo graves disturbios. Los balances oficiales hablan de unos dos mil detenidos y unos seiscientos agentes y bomberos heridos. Los comerciantes estiman daños en unos mil quinientos establecimientos. Macron se dirigió a la nación el domingo y pidió, según El Boletín, poder prohibir reuniones si es necesario.
 
-Pasamos a Europa, que ayer aguantó mejor. El Euro Stoxx cincuenta subió casi cuatro décimas, hasta unos seis mil ciento noventa puntos. El Dax alemán ganó casi dos décimas.
+Por qué importa. Una crisis social larga puede pesar en su prima de riesgo y en el consumo. Es una hipótesis, no un hecho. Habrá que ver cómo reacciona hoy la deuda francesa.
 
-París subió unas seis décimas y Londres unas siete. Milán fue la excepción, con una caída de seis décimas por la banca italiana.
+Segunda. Italia. Cien mil personas, según los convocantes, marcharon en Roma. El sindicato CGIL ha convocado una huelga general para el veinte de noviembre. Hubo además incidentes en Milán, con al menos sesenta detenidos. Portugal y España también vivieron protestas por salarios y vivienda. En Madrid sigue la acampada de la Puerta del Sol.
 
-ASML subió casi dos por ciento tras presentar resultados. Según Reuters, la empresa dice que sus clientes ya quieren reservar pedidos para dos mil veintinueve y dos mil treinta. Eso calma, en parte, las dudas sobre la inversión en inteligencia artificial.
+Tercera. Ucrania. Trump sostiene que Zelenski no quiere acabar la guerra y defiende no firmar nuevas sanciones contra Rusia para que Moscú no abandone las negociaciones. Zelenski, por su parte, cree que Washington busca forzar una capitulación. Esa es su valoración. Los mercados siguen de cerca cualquier cambio en sanciones y en energía.
 
-Y Lufthansa cayó algo más de dos por ciento. Según France Presse, Portugal la ha elegido para comprar casi el cuarenta y cinco por ciento de TAP. Pagará unos mil treinta millones de euros.
+Y una novedad relevante en inteligencia artificial. Anthropic anunció el domingo que destinará el cinco por ciento de sus acciones a un fondo de beneficio público. Según Bloomberg, la medida necesita el visto bueno de los accionistas. El consejo podría añadir un dos por ciento más según crezca el valor de la compañía.
 
-Ahora, los bonos. Tras el dato de inflación, el bono estadounidense a diez años llegó a rendir cerca del cinco coma tres por ciento, según El Boletín.
+Esto llega semanas antes de una salida a bolsa que, según la información publicada, la empresa espera en noviembre. Según CNBC, Anthropic ha comunicado a inversores unos ingresos de dieciséis mil ochocientos millones de dólares en el tercer trimestre.
 
-Pero luego el movimiento se dio la vuelta. Según Reuters, la venta en tecnología empujó a los inversores hacia la deuda pública. El rendimiento del bono largo cayó casi ocho puntos básicos durante la sesión asiática.
+La valoración es el gran interrogante. Según Reuters, algunos inversores barajan un billón y medio de dólares. The Verge dice que la compañía apuntaba a dos billones. En mayo la ronda privada la valoró en unos novecientos sesenta y cinco mil millones. Por qué importa. Es la mayor prueba de apetito por la inteligencia artificial en bolsa, justo cuando el mercado duda de su financiación. Un resultado flojo podría enfriar otras salidas. Un buen resultado aliviaría al sector. Lo que se publica son estimaciones, no cifras cerradas.
 
-Sobre divisas, según France Presse, el euro bajó ayer por debajo de uno coma doce dólares tras el dato de inflación. Esta mañana, según los datos de EODHD, recupera ese nivel.
+Pasamos a España. El Ibex treinta y cinco cerró el viernes con una subida de tres cuartos de punto, hasta unos diecinueve mil trescientos veinticinco puntos. En la semana suma casi uno y medio por ciento.
 
-Materias primas. El Brent, contrato de diciembre, cae esta mañana cerca de un dos por ciento, hasta unos ciento cuatro dólares. El West Texas, contrato de noviembre, baja un uno por ciento, hasta unos noventa y cuatro.
+Lideraron las subidas Acciona, con un tres por ciento, y Acciona Energía, con casi tres. Telefónica subió unos dos y medio. Merlin Properties, Ferrovial, Sacyr y Sabadell se anotaron entre uno y medio y dos por ciento. En rojo, solo Redeia, con una caída de dos décimas. Según Finanzas punto com, el índice se benefició de la rotación fuera de la tecnología, en la que España pesa poco.
 
-Según Reuters, pesa que Estados Unidos estudia relajar las sanciones a los buques de la llamada flota fantasma. El objetivo sería abaratar el transporte de crudo. Al otro lado de la balanza están los ataques en el estrecho de Ormuz.
+En la CNMV, las últimas comunicaciones de hechos relevantes de los tres últimos días son pocas. La más destacada es de Grupo Ezentis, que adquiere un cinco por ciento adicional del capital de Elías Equipamientos Ganaderos. No hay nada de calado para el Ibex.
 
-No he podido confirmar el precio del oro con una fuente fiable.
+Hoy, en política, Feijóo presenta su Contrato con España. No es un dato de mercado, pero conviene tenerlo en el radar.
 
-Un dato macro europeo: según Reuters, la economía británica creció una décima en agosto, por encima de lo esperado.
+Pasamos a las startups. Como es lunes, repasamos la semana.
 
-Entramos en las noticias de portada. La primera, Oriente Medio, solo con lo nuevo. Según Reuters, un portacontenedores y un granelero se han hundido cerca de Ormuz tras ser alcanzados por proyectiles.
+Empezamos por Barcelona. Nauta, firma de capital riesgo con oficinas en Barcelona y Londres, ha cerrado una primera fase de su sexto fondo, con sesenta millones de euros. Quiere llegar a entre ciento cincuenta y doscientos millones en la segunda mitad de dos mil veintisiete. Tiene como inversor ancla al banco de desarrollo del Reino Unido, el British Business Bank. Invierte en software B2B y tecnología profunda.
 
-Según la misma agencia, los hutíes de Yemen atacaron la sede de la petrolera saudí Aramco. Y según la cadena CNBC, Irán dice estar contando los momentos para atacar buques de guerra estadounidenses.
+Causa Prima captó dieciocho millones de euros en una ronda liderada por Base10 Partners. Cofrai cerró una ronda de dos millones y medio. Mutua Madrileña compró un diez por ciento de Alter5, la plataforma de inversión en energías renovables.
 
-Para los mercados, cada ataque es un riesgo para el suministro y para la inflación. Por ahora, el crudo sigue llegando por rutas alternativas, según los analistas citados por Reuters.
+Hay además una ronda de ID Finance anunciada por El Referente. El titular da una cifra que no he podido confirmar, así que no la cito.
 
-La segunda, la campaña electoral en España. Las elecciones generales son el veintinueve de noviembre. Según El Confidencial, Margarita Robles será la número dos de Pedro Sánchez en la lista socialista por Madrid.
+Y una operación de la semana anterior. Blaumar Capital e Inveready tomaron la mayoría de Blinker, un distribuidor de componentes para profesionales con más de treinta mil clientes en España, Portugal y Francia.
 
-La tercera, Ucrania. Según el Financial Times, citado por Reuters, Zelenski asegura que Ucrania volverá a atacar refinerías rusas. Para el petróleo es otro factor de riesgo sobre la oferta.
+Por qué importa. Pese a la volatilidad de los mercados, el capital riesgo sigue levantando fondos y cerrando rondas. Eso sí, hablamos de cifras modestas frente a los grandes números de la inteligencia artificial.
 
-Y en inteligencia artificial, una novedad relevante. Según la BBC, Anthropic, la empresa que desarrolla Claude, facturó dieciséis mil ochocientos millones de dólares en el tercer trimestre. Son un cuarenta y cinco por ciento más que en el trimestre anterior.
+Terminamos con lo que hay que vigilar hoy y esta semana.
 
-La compañía dio estas cifras a posibles inversores. Prepara su salida a bolsa, que se espera antes de fin de año. Según la BBC, también habría logrado beneficios por segundo trimestre consecutivo.
+Uno. Hoy, los datos de China. Producto interior bruto del tercer trimestre, producción industrial y ventas minoristas. Importan para materias primas y bolsas asiáticas.
 
-Su alcance es claro. Las cuentas de Anthropic y de OpenAI son un termómetro de si el sector puede pagar la enorme inversión en centros de datos. Justo lo que hoy preocupa al mercado.
+Dos. Esta mañana, la reacción de los mercados a los disturbios de Francia, sobre todo en bonos y en bolsa.
 
-También en semiconductores: según CNBC, TSMC ha presentado hoy su sexto trimestre seguido de beneficio récord, por encima de lo esperado.
+Tres. El miércoles, los resultados de Meta y Tesla, y la inflación británica. Meta puede aclarar mucho sobre el gasto en inteligencia artificial. Según XTB, se espera que su inversión más que doble la de hace un año.
 
-Pasamos a España. El Ibex treinta y cinco subió el miércoles una décima, hasta unos diecinueve mil doscientos treinta puntos. Alguna fuente da diecinueve mil doscientos veintiséis; la diferencia es mínima.
-
-Fue una sesión de más a menos. Según El Boletín, el índice llegó a superar los diecinueve mil trescientos cincuenta, pero perdió fuerza tras el dato de inflación estadounidense.
-
-Puig lideró las subidas. El Boletín le da una subida de tres y medio por ciento, y El Nacional de algo más de cuatro. Detrás quedaron Rovi, más de dos por ciento, y Repsol, casi dos, apoyada en el crudo caro.
-
-En el lado de las caídas, Solaria bajó casi cuatro por ciento. Acciona y Acciona Energía perdieron algo más de dos cada una.
-
-La banca fue desigual. Santander cedió cerca de medio punto y BBVA un cuarto de punto. CaixaBank, en cambio, subió medio punto.
-
-Fuera del Ibex, TSK se desplomó más de un once por ciento. Según El Boletín, un tribunal comercial de Londres le ordena pagar ochenta y un millones en avales por una planta en Mozambique.
-
-En la CNMV, la novedad es de Banco Santander. Comunica la amortización anticipada de toda una emisión de bonos convertibles contingentes perpetuos. No he visto más comunicaciones nuevas en la página.
-
-Y una noticia que te afecta como responsable financiero. Según Cinco Días, Hacienda vuelve a aplazar Verifactu, el sistema de control de software de facturación, hasta octubre de dos mil veintiocho.
-
-Ojo al matiz. El aplazamiento aún debe aprobarse por norma. Hasta entonces siguen vigentes los plazos de dos mil veintisiete.
-
-Hacienda quiere hacerlo coincidir con la factura electrónica obligatoria. Será obligatoria desde octubre de dos mil veintisiete para empresas con más de ocho millones de euros de volumen de operaciones. El resto, un año después.
-
-Pasamos a las startups españolas. Según El Referente, Ruit ha cerrado una ronda presemilla de ochocientos ochenta mil euros. La lidera Abac Nest.
-
-También participan Angels Capital, Decelera y Successful VC, además de un préstamo participativo de Enisa. Ruit, de la Comunidad Valenciana y acelerada por Lanzadera, desarrolla software para profesionales de la venta de segunda mano.
-
-Destinará el dinero a reforzar el equipo, desarrollar producto y crecer en ventas, con la vista puesta en Europa.
-
-En Barcelona, una noticia menos buena. Según Crónica Global, la marca barcelonesa de cosmética Midnight ha presentado suspensión de pagos. La empresa, fundada en dos mil diecinueve, acumula cinco años seguidos de pérdidas.
-
-Lo que hay que vigilar hoy. Primero, en Estados Unidos, las ventas minoristas y los precios industriales, esta tarde. Segundo, si la venta en tecnología que golpea a Asia llega a las bolsas europeas en la apertura. Tercero, los inventarios oficiales de crudo estadounidense, a las seis de la tarde, y cualquier novedad en Ormuz.
-
-Hasta aquí el boletín. Que tengas buen jueves, y buen paseo.
+Eso es todo por hoy. Gracias por escucharme y que tengas un buen lunes.
