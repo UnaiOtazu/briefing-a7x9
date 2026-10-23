@@ -1,77 +1,81 @@
-Buenos días, es jueves veintidós de octubre. Este es tu boletín de mercados.
+Buenos días, es viernes veintitrés de octubre. Este es tu boletín de mercados.
 
-El titular de hoy: Wall Street cerró al alza gracias a los resultados de la inteligencia artificial. Pero esta mañana los futuros dan marcha atrás. El petróleo vuelve a ciento diez dólares por la escalada en el Golfo, y Francia sigue bajo presión.
+El titular de hoy: la inteligencia artificial vuelve a asustar a Wall Street. El Nasdaq sufrió ayer su peor sesión desde junio. El petróleo sigue en máximos de cinco meses por los ataques a Arabia Saudí. Y Francia vuelve a tensar la deuda europea.
 
-Empezamos por Wall Street. Ayer cerró con subidas, lideradas por el Nasdaq. El Dow Jones ganó casi siete décimas, hasta unos cincuenta y tres mil puntos. El S&P quinientos subió casi seis décimas. El Nasdaq avanzó algo más de uno por ciento.
+Empezamos por Wall Street. Ayer cerró dividido. El Nasdaq se dejó más de dos y medio por ciento, hasta unos veintiséis mil puntos. El S&P quinientos perdió algo más de uno por ciento. El Dow Jones acabó prácticamente plano, en torno a cincuenta y tres mil puntos.
 
-El motivo fueron las cuentas tecnológicas. Según Reuters, los resultados aliviaron el miedo a que el negocio de la inteligencia artificial no sea sostenible. Super Micro subió cerca de diez por ciento tras dar previsiones por encima de lo esperado.
+El detonante fue Meta. Presentó cuentas el miércoles por la noche y la bolsa reaccionó mal al día siguiente. Sus acciones cayeron cerca de siete por ciento, su mayor caída desde julio.
 
-Después del cierre llegó Meta. Ingresó unos sesenta y cuatro mil seiscientos millones de dólares en el tercer trimestre, por encima de lo previsto. Para el cuarto trimestre espera entre setenta y tres mil y setenta y seis mil millones. Las acciones subían más de cuatro por ciento fuera de horario.
+¿Por qué? Según Reuters, Meta anunció una nueva clase de acciones sin voto para financiar sus inversiones. Los inversores temen que haya que vender muchas acciones y diluir a los actuales accionistas.
 
-Pero hay matices. Meta tuvo un flujo de caja libre negativo de unos dos mil cien millones. Y elevó el suelo de su previsión de inversión anual. Ahora va de ciento treinta y cinco mil a ciento cuarenta y cinco mil millones.
+Además, Meta elevó el suelo de su previsión de inversión anual. Ahora la sitúa entre ciento treinta y cinco mil y ciento cuarenta y cinco mil millones de dólares. Y tuvo caja negativa en el trimestre, por unos dos mil cien millones. Según Reuters, es su primera quema de caja en más de una década.
 
-Además, creará una nueva clase de acciones sin voto, a partir de enero. Según Reuters, es en la práctica una división de dos por uno. Servirá para financiar compras y retener talento, sin que Mark Zuckerberg pierda el control.
+El contagio fue amplio. Nvidia bajó cerca de cuatro por ciento. Lam Research se hundió un doce por ciento tras presentar resultados. El índice de semiconductores de Filadelfia perdió casi siete por ciento. Y las empresas de nube para inteligencia artificial, como CoreWeave y Nebius, cayeron entre siete y diez por ciento.
 
-Por qué importa. Según Reuters, Meta ha pasado de ser castigada por gastar a ser premiada por tener un producto atractivo, su asistente de inteligencia artificial Muse. Más de diez millones de usuarios en Estados Unidos y Canadá lo han activado en mes y medio. Eso lo dice la propia compañía.
+Hay una señal que importa a un analista financiero. Según Reuters, el seguro contra impago de la deuda de Meta marcó un récord. Es decir, el mercado empieza a cobrar más caro financiar esta carrera de inversión.
 
-Una sombra legal. Un juez de Nuevo México ordenó a Meta pagar una sanción de veinticinco mil millones de dólares. Antes, un jurado concluyó que engañó a los residentes sobre el uso de sus datos.
+Michael Bailey, de FBB Capital Partners, lo resumió en Bloomberg como una versión más violenta de las rotaciones de este año. Matthew Maley, de Miller Tabak, habló de dudas sobre el retorno de todo ese gasto.
 
-Tesla también subió. Según Reuters, sorprendió con un flujo de caja positivo en el trimestre. Y sobre la posible fusión con SpaceX, hay novedad. Según una fuente citada por Reuters, el apoyo público de Elon Musk ha irritado a quienes participan en las conversaciones. Temen que atraiga más escrutinio de los accionistas y retrase el proceso varias semanas.
+¿Qué efecto puede tener? Si financiarse se encarece, las empresas pequeñas del sector sufrirán primero. Los gigantes como Amazon, Google o Meta no tendrán problema, según el propio Maley. Pero el aviso de que las valoraciones dependen de un retorno aún incierto no desaparece.
 
-La fuente añade que las charlas están en una fase temprana. Se estudian varias fórmulas, entre ellas un canje de acciones. Eso es lo que cuentan las fuentes, no hay nada decidido.
+También en tecnología, Reuters informa de que Cloudflare detecta millones de intentos de explotación tras la revelación de fallos en PHP. Empresas y gobiernos corren a parchear sus sistemas. Es un riesgo operativo que conviene vigilar, aunque no tengo todavía una estimación de su impacto.
 
-Esta mañana, el tono es más frío. Los futuros del S&P quinientos caen entre cuatro y seis décimas. Las bolsas asiáticas dudan y Corea cae más de uno por ciento.
+Pasamos a Europa. Las bolsas cayeron con fuerza. El Euro Stoxx cincuenta perdió casi dos por ciento. El CAC cuarenta francés bajó cerca de uno y medio por ciento. El DAX alemán cedió algo más de uno por ciento, y el FTSE de Londres, tres décimas.
 
-En bonos, el rendimiento del diez años estadounidense ronda el cinco coma uno por ciento. Ayer apenas se movió, y hoy baja unos cuatro puntos básicos, según Reuters. El mercado sigue pendiente de la próxima reunión de la Reserva Federal.
+Detrás está Francia. Según Reuters, los costes de financiación franceses están en máximos desde dos mil dos, ante el temor a una rebaja de calificación. Estrategias de Inversión sitúa el bono a diez años por encima del cinco por ciento, por encima incluso del bono estadounidense.
 
-Pasamos a Europa. Ayer las bolsas cerraron con alzas amplias. Según Reuters, el Stoxx seiscientos subió nueve décimas. Según EODHD, el Euro Stoxx cincuenta ganó cerca de uno coma cuatro por ciento. Esta mañana, sus futuros caen unas siete décimas.
+Según investingLive, la diferencia con el bono alemán llegó a ciento setenta puntos básicos, el nivel más alto desde dos mil once. Mientras tanto, El País cuenta que Francia afronta otro fin de semana de protestas en la calle, tras los disturbios del sábado pasado.
 
-El foco sigue en Francia. Su bono a diez años superó el cinco por ciento por primera vez desde dos mil dos. Y hoy sigue subiendo ligeramente, según Reuters. El diferencial con el bono alemán se acerca a los ciento sesenta puntos básicos.
+El bono alemán funcionó como refugio. Su rentabilidad bajó con fuerza, hasta algo más del tres por ciento. En cambio, el euro cedió algo. Cotiza en torno a uno doce frente al dólar, según los datos de esta mañana.
 
-Mañana viernes, Moody's revisa la nota de Francia, hoy en Aa3 y con perspectiva negativa. Si la rebaja, podría encarecer aún más la financiación francesa. Es lo que anticipa Reuters, no un hecho.
+En Estados Unidos, el bono a diez años bajó unos nueve puntos básicos, hasta alrededor del cinco por ciento, según investingLive. Es un movimiento de huida hacia la seguridad. Reuters apunta que la rotación ha restado fuerza a las apuestas de subida de tipos.
 
-Mientras, Macron ha prometido evitar nuevos episodios de violencia en las protestas de los próximos días. Carrefour se desplomó cerca de trece por ciento ayer, tras recortar su previsión por culpa de las protestas.
+Vamos con las materias primas. El Brent, el contrato de futuros de referencia en Londres, subió ayer cerca de cuatro por ciento. Cerró en su nivel más alto desde principios de mayo. Esta mañana ronda los ciento trece dólares, según Reuters. El West Texas, el contrato estadounidense, anda cerca de cien dólares.
 
-Hoy Hermès publica sus ventas. Según Reuters, el crecimiento del tercer trimestre se frena y la ropa cae. Es un solo dato, pero el lujo europeo estará atento.
+El motivo es Oriente Medio. Los hutíes dicen haber atacado instalaciones de Aramco en Yanbu y el aeropuerto de Dammam. Las autoridades saudíes hablan de dos muertos en el aeropuerto.
 
-En divisas, el euro cotiza alrededor de uno doce treinta frente al dólar, casi sin cambios, según Reuters y EODHD. Reuters señala que la moneda única se ha estabilizado tras un mes de caídas. El índice dólar ronda ciento dos.
+Según Reuters, Aramco ordenó evacuar su sede de Dhahran. Además, Irán asegura que siete petroleros fueron alcanzados en el estrecho de Ormuz. Associated Press no ha podido confirmarlo de forma independiente.
 
-El petróleo es la otra gran variable. Ayer el Brent cerró en unos ciento nueve dólares, casi sin cambios, según Reuters. Esta mañana sube más de uno por ciento, hasta unos ciento diez. El crudo estadounidense WTI ronda los noventa y ocho.
+Los analistas de ING creen que lo más probable es una nueva escalada. Incluso sin ella, dicen, el mercado mantendrá una prima de riesgo geopolítico. Eso es una valoración suya, no un hecho.
 
-La razón son nuevos ataques de los hutíes en Arabia Saudí. Según Reuters, un ataque con drones mató a dos personas en un campo petrolífero, y otro en el aeropuerto de Dammam, a una. Washington ordena salir a diplomáticos de Arabia Saudí y retirar a familiares de otras misiones del Golfo.
+Hay dos fechas cercanas que pueden mover el crudo. El martes son las elecciones en Israel. Y el mes que viene llegan las legislativas de Estados Unidos, donde el precio del combustible pesa en el voto, según Associated Press.
 
-Además, la Guardia Revolucionaria de Irán afirma que siete buques han sido alcanzados, y avisa a Estados Unidos de una respuesta más amplia. Es la versión iraní, que Reuters no ha verificado de forma independiente.
+El oro, por su parte, cayó casi dos por ciento, hasta unos cuatro mil setenta dólares la onza en el futuro más cercano. Y el bitcoin se dejó más de tres por ciento, hasta unos ochenta y un mil quinientos dólares.
 
-Por qué importa. Según ING, el petróleo sigue muy demandado. Los inventarios de crudo de Estados Unidos bajaron más de tres millones de barriles la semana pasada, según la agencia EIA. Casi cuatro veces lo que se esperaba. Esto mantiene la presión sobre la inflación y sobre los tipos.
+Dos noticias más de portada. El País destaca el pulso de la acampada por la vivienda en la Puerta del Sol. Y señala que la iniciativa internacional para que las grandes multinacionales tributen más se queda descafeinada. Para un directivo financiero, eso apunta a menos presión fiscal global de la esperada, aunque faltan los detalles.
 
-Una nota menos tensa. Según Reuters, Vladímir Putin aceptó reanudar las conversaciones de paz con Ucrania, mediadas por Estados Unidos, tan pronto como el mes que viene. Zelenski las apoya. Por ahora son intenciones, no hay una fecha fijada.
+En empresas europeas, Reuters informa de que Volvo Cars recortará dos mil quinientos empleos tras pasar a pérdidas en el tercer trimestre. Y Eni pagará un dividendo especial de mil trescientos millones de euros, tras duplicar su beneficio.
 
-El oro al contado, según Reuters, cotiza en torno a cuatro mil ciento quince dólares la onza, con un leve descenso.
+Pasamos a España. El Ibex treinta y cinco cerró ayer con una caída de algo más de dos por ciento, hasta unos dieciocho mil novecientos puntos. Es la segunda vez este mes que pierde los diecinueve mil. Fue el peor comportamiento de Europa.
 
-Ahora, las noticias de portada, y una de inteligencia artificial que ha movido la agenda. Según Reuters, una vulnerabilidad en PHP obligó a desconectar sitios públicos en Países Bajos, Dinamarca, Finlandia y Francia. PHP es el lenguaje que está detrás de buena parte de la web. La Wikipedia también apagó sistemas.
+La culpa fue de la banca. Según Estrategias de Inversión, los bancos pesan cerca del cuarenta por ciento del índice. Bankinter se dejó más de siete por ciento y CaixaBank, cerca de seis. Solaria cayó algo más de cinco.
 
-El fallo llevaba más de una década oculto. Lo descubrieron con herramientas de inteligencia artificial las empresas de ciberseguridad Calif y Wiz, filial de Alphabet. Reuters cuenta que Amazon detectó intentos de explotación cuatro días antes de que se hiciera público.
+Llama la atención lo de Bankinter. Ganó novecientos un millones en nueve meses, un once por ciento más. Aun así, cayó con fuerza. No he podido confirmar el motivo concreto del castigo.
 
-Por qué importa. Los expertos citados por Reuters temen una ola de intrusiones, porque ahora la inteligencia artificial facilita reproducir el fallo en poco tiempo. Es una advertencia de expertos, no un daño ya confirmado. Para empresas con webs propias, hay que actualizar ya.
+En el lado positivo, Telefónica subió casi dos por ciento. Cellnex ganó algo más de uno y medio. Inmobiliaria Colonial, cerca de uno y medio. La deuda española a diez años rondó el cuatro por ciento.
 
-También en inteligencia artificial. Según fuentes citadas por Yahoo Finance, Anthropic hará público su folleto de salida a bolsa, el S-1, tan pronto como mañana viernes. Hasta ahora solo se habían filtrado cifras. Si se confirma, será el primer examen completo del negocio.
+En empresas. Puig facturó mil trescientos noventa y un millones en nueve meses, un cinco y medio por ciento más en términos comparables. Mantiene sus previsiones y celebrará su primer día de mercados de capitales el veintiocho de octubre.
 
-Por último, según un informe de Amazon Web Services que recoge Reuters, las startups europeas valoran irse. Citan la regulación, la falta de financiación y la escasez de perfiles técnicos. Es un aviso del sector, no una tendencia confirmada.
+Entre las valoraciones de analistas, UBS sube el precio objetivo de Iberdrola a veinticuatro euros. JB Capital eleva el de Indra a setenta y dos. Jefferies mantiene la recomendación de comprar en Puig.
 
-Pasamos a España. El Ibex treinta y cinco cerró ayer con una subida de algo más de uno por ciento. Quedó en torno a los diecinueve mil trescientos puntos. Las fuentes discrepan un poco. Según EODHD, sube uno coma uno por ciento. Según Estrategias de Inversión, uno coma dos.
+ACS se impuso a FCC en el concurso del superhub de Melbourne, según Expansión. Amadeus firmó un memorando con Nvidia para búsqueda de vuelos con inteligencia artificial. Y Telefónica aprobó una política de primas de asistencia a sus juntas.
 
-Lo lideraron los bancos, que llevaban seis semanas a la baja. Santander subió algo más de dos por ciento, Bankinter, dos, y Ferrovial, casi dos. Entre las mayores caídas, Cellnex y Amadeus cedieron unas ochenta y cinco centésimas, y Grifols, casi siete décimas.
+Metrovacesa ingresó cuatrocientos sesenta y cinco millones en nueve meses, un setenta y cinco por ciento más. Atresmedia facturó unos setecientos veinticuatro millones, cuatro por ciento más.
 
-Iberdrola ganó cinco mil ochocientos dieciséis millones de euros hasta septiembre, cerca de diez por ciento más. Prevé que su beneficio neto ajustado crezca al menos diez por ciento. Y subirá su dividendo cerca de nueve por ciento.
+En la CNMV, además de los resultados de Bankinter, destaca Liwe Española. La compañía abrió el plazo para recibir ofertas vinculantes por su unidad productiva, dentro de su proceso concursal. Y Tubos Reunidos anunció el martes que solicitará la fase de liquidación.
 
-BBVA recibió una mejora de rating de DBRS Morningstar, de A alto a doble A bajo. La agencia destaca su rentabilidad resiliente. Ferrovial entra en un marco de grandes proyectos de Anglian Water, ligado a una inversión de unos doce mil ochocientos millones de euros.
+Ahora, las startups españolas. El Referente recoge pocas operaciones en las últimas horas. Hawk Biosystems, de biotecnología, cerró una ronda de tres millones y medio. Remolonas Foods levantó dos millones cien mil euros, con Clave Capital, Eoniq y Sego Venture.
 
-En la CNMV, Bankinter ha remitido hoy sus resultados del tercer trimestre. No he podido leer las cifras, así que no las comento. LIWE Española ha abierto el plazo para ofertas vinculantes por su unidad productiva, en pleno proceso concursal. Y Tubos Reunidos solicitó el martes la liquidación.
+Algo más atrás, Qilimanjaro Quantum Tech captó diecinueve millones seiscientos mil euros a mediados de mes. Y ID Finance registra una operación de quinientos cuarenta y cinco millones el día trece.
 
-Pasamos a las startups españolas. Remolonas, una plataforma de excedentes alimentarios, cierra una ronda de dos millones cien mil euros. Participan Clave Capital, EONIQ y otros inversores. Además, abre una campaña de financiación colectiva, con la que quiere competir con la gran distribución.
+Para contexto, según El Referente, la inversión en startups españolas suma casi cuatro mil millones de euros este año. Eso es un cuarenta y nueve por ciento más que en dos mil veinticinco. Madrid concentra más de mil doscientos millones y Cataluña, unos mil.
 
-Y HAWK Biosystems, de Derio, cierra tres millones y medio de euros, liderados por Inveready. Con ellos suma unos doce millones y medio desde su fundación. Quiere pasar de proveedor tecnológico a empresa de diagnóstico clínico, con su primer test hospitalario previsto para dos mil veintisiete.
+Lo que hay que vigilar hoy. Primero, los PMI de Francia, Alemania y la eurozona, entre las nueve y cuarto y las diez de la mañana. Dirán si el miedo ya se nota en la economía real.
 
-Lo que hay que vigilar hoy. Primero, el petróleo y la escalada en el Golfo, tras los ataques en Arabia Saudí. Segundo, los resultados de Barclays, Lockheed Martin, Blackstone y Dow. Y tercero, Francia: mañana Moody's decide sobre su nota.
+Segundo, a las cuatro menos cuarto de la tarde, el PMI de Estados Unidos. Y a las cuatro, la confianza del consumidor de Michigan, en plena subida de precios de la energía.
 
-Hasta aquí el boletín. Gracias por escucharlo, y que tengas un buen día.
+Tercero, Oriente Medio y Francia. Cualquier ataque nuevo a Arabia Saudí o a Ormuz moverá el crudo. Y las protestas de este sábado en Francia pueden decidir cómo abre el bono francés el lunes.
+
+La semana que viene hay cita con la Reserva Federal el miércoles y con el Banco Central Europeo el jueves. Y este domingo cambia la hora.
+
+Hasta aquí el boletín de hoy. Gracias por escucharlo, y que tengas buen viernes.
