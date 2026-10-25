@@ -1,81 +1,57 @@
-Buenos días, es viernes veintitrés de octubre. Este es tu boletín de mercados.
+Buenos días, es domingo veinticinco de octubre. Hoy el programa es un poco distinto. En lugar de repasar cotizaciones, vamos a mirar con calma la semana que empieza mañana, que pinta a ser de las más importantes del otoño.
 
-El titular de hoy: la inteligencia artificial vuelve a asustar a Wall Street. El Nasdaq sufrió ayer su peor sesión desde junio. El petróleo sigue en máximos de cinco meses por los ataques a Arabia Saudí. Y Francia vuelve a tensar la deuda europea.
+Tres cosas coinciden en pocos días. Las grandes tecnológicas presentan resultados, la Reserva Federal se reúne y el petróleo vuelve a subir por la tensión en Oriente Medio. Y además Francia sigue dando sustos a la deuda europea. Vamos por partes.
 
-Empezamos por Wall Street. Ayer cerró dividido. El Nasdaq se dejó más de dos y medio por ciento, hasta unos veintiséis mil puntos. El S&P quinientos perdió algo más de uno por ciento. El Dow Jones acabó prácticamente plano, en torno a cincuenta y tres mil puntos.
+Empiezo por la historia que más pesa: la inteligencia artificial y su factura. El viernes te contaba que Meta había asustado al mercado. Presentó un plan de inversión enorme, quemó caja por primera vez en más de una década y el seguro contra su impago marcó máximos. El Nasdaq vivió el jueves su peor día desde junio.
 
-El detonante fue Meta. Presentó cuentas el miércoles por la noche y la bolsa reaccionó mal al día siguiente. Sus acciones cayeron cerca de siete por ciento, su mayor caída desde julio.
+El viernes las tecnológicas se calmaron un poco. El índice de semiconductores incluso rebotó ligeramente. Pero la sensación de fondo no ha cambiado. Según Reuters, los inversores siguen inquietos con la gran apuesta por la inteligencia artificial, la que ha sostenido cuatro años de subidas en Wall Street.
 
-¿Por qué? Según Reuters, Meta anunció una nueva clase de acciones sin voto para financiar sus inversiones. Los inversores temen que haya que vender muchas acciones y diluir a los actuales accionistas.
+Y aquí está lo interesante. Esta semana presentan resultados tres de los grandes compradores de infraestructura de inteligencia artificial. Alphabet y Microsoft lo hacen el miércoles. Amazon, el jueves. Junto a Meta, sostienen buena parte de una inversión que Reuters estima en torno a ochocientos mil millones de dólares este año.
 
-Además, Meta elevó el suelo de su previsión de inversión anual. Ahora la sitúa entre ciento treinta y cinco mil y ciento cuarenta y cinco mil millones de dólares. Y tuvo caja negativa en el trimestre, por unos dos mil cien millones. Según Reuters, es su primera quema de caja en más de una década.
+¿Qué va a mirar el mercado? No tanto si ganan más o menos dinero, que probablemente lo harán. Lo que importa es cuánto dicen que van a seguir invirtiendo y, sobre todo, si empiezan a ver retorno de ese gasto.
 
-El contagio fue amplio. Nvidia bajó cerca de cuatro por ciento. Lam Research se hundió un doce por ciento tras presentar resultados. El índice de semiconductores de Filadelfia perdió casi siete por ciento. Y las empresas de nube para inteligencia artificial, como CoreWeave y Nebius, cayeron entre siete y diez por ciento.
+Nick Giorgi, estratega de Alpine Macro, lo explica bien. Dice que el mercado ya no da el beneficio de la duda a quien gasta muchísimo en construir esta infraestructura. Para él es algo sano, aunque anticipa algo de dolor a corto plazo. King Lip, de BakerAvenue, va más allá: cree que los resultados decidirán si esta caída es una oportunidad de compra o el inicio de una corrección más profunda.
 
-Hay una señal que importa a un analista financiero. Según Reuters, el seguro contra impago de la deuda de Meta marcó un récord. Es decir, el mercado empieza a cobrar más caro financiar esta carrera de inversión.
+Mi lectura es que la pregunta ha cambiado. Durante mucho tiempo bastaba con anunciar más inversión para que la bolsa aplaudiera. Ahora el mercado pide pruebas de que esa inversión se paga. Y, como vimos con Meta, empieza a cobrar más caro financiarla.
 
-Michael Bailey, de FBB Capital Partners, lo resumió en Bloomberg como una versión más violenta de las rotaciones de este año. Matthew Maley, de Miller Tabak, habló de dudas sobre el retorno de todo ese gasto.
+Eso te interesa como financiero por una razón concreta. Si estas compañías moderan su inversión, el golpe no se lo llevan solo ellas. Se lo lleva toda la cadena: fabricantes de chips, de servidores, eléctricas y centros de datos. Y si la mantienen a base de deuda, el crédito para todo el sector tecnológico puede encarecerse. Por eso esta semana conviene escuchar lo que digan sobre inversión con más atención que el beneficio.
 
-¿Qué efecto puede tener? Si financiarse se encarece, las empresas pequeñas del sector sufrirán primero. Los gigantes como Amazon, Google o Meta no tendrán problema, según el propio Maley. Pero el aviso de que las valoraciones dependen de un retorno aún incierto no desaparece.
+Para poner contexto, la temporada de resultados va muy bien en conjunto. Según datos de LSEG que cita Reuters, el beneficio de las empresas del S&P quinientos crece más de un treinta por ciento respecto al año pasado. El problema no son los beneficios de hoy, sino la duda sobre los de mañana.
 
-También en tecnología, Reuters informa de que Cloudflare detecta millones de intentos de explotación tras la revelación de fallos en PHP. Empresas y gobiernos corren a parchear sus sistemas. Es un riesgo operativo que conviene vigilar, aunque no tengo todavía una estimación de su impacto.
+Cambiamos de tercio. Segunda historia: la Reserva Federal se reúne el miércoles, y llega en un momento delicado.
 
-Pasamos a Europa. Las bolsas cayeron con fuerza. El Euro Stoxx cincuenta perdió casi dos por ciento. El CAC cuarenta francés bajó cerca de uno y medio por ciento. El DAX alemán cedió algo más de uno por ciento, y el FTSE de Londres, tres décimas.
+Recuerda que la Fed subió tipos en septiembre por primera vez desde dos mil veintitrés, para frenar una inflación que sigue por encima de su objetivo. Hace un par de semanas te contaba que el dato de inflación de septiembre salió peor de lo esperado.
 
-Detrás está Francia. Según Reuters, los costes de financiación franceses están en máximos desde dos mil dos, ante el temor a una rebaja de calificación. Estrategias de Inversión sitúa el bono a diez años por encima del cinco por ciento, por encima incluso del bono estadounidense.
+Aun así, el mercado da por hecho que esta vez no tocará los tipos. Según datos de LSEG que recoge Reuters, la probabilidad de otra subida esta semana es inferior al diez por ciento. Un motivo, según la agencia, es que muchos inversores dudan que la Fed quiera subir tipos una semana antes de las elecciones legislativas estadounidenses del tres de noviembre.
 
-Según investingLive, la diferencia con el bono alemán llegó a ciento setenta puntos básicos, el nivel más alto desde dos mil once. Mientras tanto, El País cuenta que Francia afronta otro fin de semana de protestas en la calle, tras los disturbios del sábado pasado.
+Pero ojo, porque la siguiente reunión es otra historia. Para diciembre, los futuros dan una probabilidad de subida de alrededor del ochenta por ciento. Por eso lo importante del miércoles no será la decisión, sino lo que diga Kevin Warsh, el presidente de la Fed, en su rueda de prensa. Walter Todd, de Greenwood Capital, lo resume así: hay que ver si da alguna pista sobre diciembre.
 
-El bono alemán funcionó como refugio. Su rentabilidad bajó con fuerza, hasta algo más del tres por ciento. En cambio, el euro cedió algo. Cotiza en torno a uno doce frente al dólar, según los datos de esta mañana.
+Y aquí entra el petróleo, que complica mucho la ecuación. El viernes el Brent subió más de un tres por ciento y cerró en su nivel más alto desde finales de abril. Según Reuters, el detonante fueron los ataques de los hutíes de Yemen contra Arabia Saudí, que avivan el miedo a nuevos cortes de suministro en la región.
 
-En Estados Unidos, el bono a diez años bajó unos nueve puntos básicos, hasta alrededor del cinco por ciento, según investingLive. Es un movimiento de huida hacia la seguridad. Reuters apunta que la rotación ha restado fuerza a las apuestas de subida de tipos.
+En el conjunto de la semana, el Brent sube un seis por ciento. Y el sector energético de Wall Street marcó máximos históricos, con Exxon y Chevron también en récord, según CNBC.
 
-Vamos con las materias primas. El Brent, el contrato de futuros de referencia en Londres, subió ayer cerca de cuatro por ciento. Cerró en su nivel más alto desde principios de mayo. Esta mañana ronda los ciento trece dólares, según Reuters. El West Texas, el contrato estadounidense, anda cerca de cien dólares.
+¿Por qué importa esto para la Fed? Porque un crudo caro es inflación que llega por la gasolina, el transporte y la industria. Cuanto más dure, más difícil le resulta al banco central dejar de subir tipos. Es un círculo que conviene vigilar.
 
-El motivo es Oriente Medio. Los hutíes dicen haber atacado instalaciones de Aramco en Yanbu y el aeropuerto de Dammam. Las autoridades saudíes hablan de dos muertos en el aeropuerto.
+El problema también aterriza en Europa. Esta semana se reúne el Banco Central Europeo, y llega con la misma factura energética encima de la mesa.
 
-Según Reuters, Aramco ordenó evacuar su sede de Dhahran. Además, Irán asegura que siete petroleros fueron alcanzados en el estrecho de Ormuz. Associated Press no ha podido confirmarlo de forma independiente.
+En Europa, además, hay un foco propio: Francia. Según Reuters, la rentabilidad del bono francés subió casi veintisiete puntos básicos en la semana, la mayor subida entre los grandes países del euro. Y su prima de riesgo está en el nivel más alto desde la crisis de deuda de dos mil once.
 
-Los analistas de ING creen que lo más probable es una nueva escalada. Incluso sin ella, dicen, el mercado mantendrá una prima de riesgo geopolítico. Eso es una valoración suya, no un hecho.
+El origen es doble: los problemas presupuestarios y las protestas en la calle. El ministro del Interior anunció el despliegue de setenta mil policías para las movilizaciones del sábado. El euro acabó la semana a la baja y las bolsas europeas sufrieron su peor semana desde principios de septiembre.
 
-Hay dos fechas cercanas que pueden mover el crudo. El martes son las elecciones en Israel. Y el mes que viene llegan las legislativas de Estados Unidos, donde el precio del combustible pesa en el voto, según Associated Press.
+Para España, la lectura es de doble filo. Si los inversores salen de la deuda francesa, parte del dinero puede buscar otros bonos del euro. Pero un susto francés serio también suele contagiar a toda la periferia. Esto es especulación: no he visto datos que confirmen ninguna de las dos cosas en la deuda española.
 
-El oro, por su parte, cayó casi dos por ciento, hasta unos cuatro mil setenta dólares la onza en el futuro más cercano. Y el bitcoin se dejó más de tres por ciento, hasta unos ochenta y un mil quinientos dólares.
+Ahora, de qué se habla más allá de los mercados. La historia tecnológica de la semana no ha sido un lanzamiento, sino un agujero de seguridad.
 
-Dos noticias más de portada. El País destaca el pulso de la acampada por la vivienda en la Puerta del Sol. Y señala que la iniciativa internacional para que las grandes multinacionales tributen más se queda descafeinada. Para un directivo financiero, eso apunta a menos presión fiscal global de la esperada, aunque faltan los detalles.
+El miércoles se publicaron dos fallos graves en PHP, un lenguaje de programación con tres décadas de historia. Puede que tu empresa lo use sin saberlo: según Reuters, está detrás de hasta un setenta por ciento de las webs del mundo. Varias webs de gobiernos europeos llegaron a desconectarse mientras se instalaban los parches. Y la empresa de seguridad Cloudflare detectó millones de intentos de ataque.
 
-En empresas europeas, Reuters informa de que Volvo Cars recortará dos mil quinientos empleos tras pasar a pérdidas en el tercer trimestre. Y Eni pagará un dividendo especial de mil trescientos millones de euros, tras duplicar su beneficio.
+Lo curioso está en la letra pequeña. La fundación que mantiene PHP tiene un solo empleado a tiempo completo, su propia directora, y catorce colaboradores casi todos a tiempo parcial. Ella misma lo dice sin rodeos: el lenguaje está muy infrafinanciado para todo lo que depende de él.
 
-Pasamos a España. El Ibex treinta y cinco cerró ayer con una caída de algo más de dos por ciento, hasta unos dieciocho mil novecientos puntos. Es la segunda vez este mes que pierde los diecinueve mil. Fue el peor comportamiento de Europa.
+Hay además un giro ligado a la inteligencia artificial. Según la fundación, fueron herramientas de inteligencia artificial las que ayudaron a encontrar unos fallos que llevaban una década ahí. Pero esas mismas herramientas han disparado el volumen de cambios que tienen que revisar, con el mismo equipo de siempre.
 
-La culpa fue de la banca. Según Estrategias de Inversión, los bancos pesan cerca del cuarenta por ciento del índice. Bankinter se dejó más de siete por ciento y CaixaBank, cerca de seis. Solaria cayó algo más de cinco.
+Mi lectura para un financiero es clara. Muchas empresas dependen de piezas de software gratuitas que nadie tiene presupuestadas. Es un riesgo operativo que rara vez aparece en un mapa de riesgos, y esta semana se ha visto que es real. Eso sí, la fundación dice no tener pruebas de que los fallos se aprovecharan en sistemas ya parcheados.
 
-Llama la atención lo de Bankinter. Ganó novecientos un millones en nueve meses, un once por ciento más. Aun así, cayó con fuerza. No he podido confirmar el motivo concreto del castigo.
+Sobre España y las startups, este fin de semana no he encontrado noticias empresariales relevantes que pueda confirmar. Al ser fin de semana, tampoco hay comunicaciones nuevas en la CNMV. Prefiero no rellenar.
 
-En el lado positivo, Telefónica subió casi dos por ciento. Cellnex ganó algo más de uno y medio. Inmobiliaria Colonial, cerca de uno y medio. La deuda española a diez años rondó el cuatro por ciento.
+Y cerramos con lo que conviene vigilar. El miércoles es el día clave, con la decisión de la Fed y los resultados de Alphabet y Microsoft en la misma tarde. El jueves llega Amazon. Y durante toda la semana, atento al petróleo y a la deuda francesa, porque cualquiera de los dos puede cambiar el tono del mercado.
 
-En empresas. Puig facturó mil trescientos noventa y un millones en nueve meses, un cinco y medio por ciento más en términos comparables. Mantiene sus previsiones y celebrará su primer día de mercados de capitales el veintiocho de octubre.
-
-Entre las valoraciones de analistas, UBS sube el precio objetivo de Iberdrola a veinticuatro euros. JB Capital eleva el de Indra a setenta y dos. Jefferies mantiene la recomendación de comprar en Puig.
-
-ACS se impuso a FCC en el concurso del superhub de Melbourne, según Expansión. Amadeus firmó un memorando con Nvidia para búsqueda de vuelos con inteligencia artificial. Y Telefónica aprobó una política de primas de asistencia a sus juntas.
-
-Metrovacesa ingresó cuatrocientos sesenta y cinco millones en nueve meses, un setenta y cinco por ciento más. Atresmedia facturó unos setecientos veinticuatro millones, cuatro por ciento más.
-
-En la CNMV, además de los resultados de Bankinter, destaca Liwe Española. La compañía abrió el plazo para recibir ofertas vinculantes por su unidad productiva, dentro de su proceso concursal. Y Tubos Reunidos anunció el martes que solicitará la fase de liquidación.
-
-Ahora, las startups españolas. El Referente recoge pocas operaciones en las últimas horas. Hawk Biosystems, de biotecnología, cerró una ronda de tres millones y medio. Remolonas Foods levantó dos millones cien mil euros, con Clave Capital, Eoniq y Sego Venture.
-
-Algo más atrás, Qilimanjaro Quantum Tech captó diecinueve millones seiscientos mil euros a mediados de mes. Y ID Finance registra una operación de quinientos cuarenta y cinco millones el día trece.
-
-Para contexto, según El Referente, la inversión en startups españolas suma casi cuatro mil millones de euros este año. Eso es un cuarenta y nueve por ciento más que en dos mil veinticinco. Madrid concentra más de mil doscientos millones y Cataluña, unos mil.
-
-Lo que hay que vigilar hoy. Primero, los PMI de Francia, Alemania y la eurozona, entre las nueve y cuarto y las diez de la mañana. Dirán si el miedo ya se nota en la economía real.
-
-Segundo, a las cuatro menos cuarto de la tarde, el PMI de Estados Unidos. Y a las cuatro, la confianza del consumidor de Michigan, en plena subida de precios de la energía.
-
-Tercero, Oriente Medio y Francia. Cualquier ataque nuevo a Arabia Saudí o a Ormuz moverá el crudo. Y las protestas de este sábado en Francia pueden decidir cómo abre el bono francés el lunes.
-
-La semana que viene hay cita con la Reserva Federal el miércoles y con el Banco Central Europeo el jueves. Y este domingo cambia la hora.
-
-Hasta aquí el boletín de hoy. Gracias por escucharlo, y que tengas buen viernes.
+Hasta aquí el programa de hoy. Que tengas buen domingo, y nos escuchamos mañana.
