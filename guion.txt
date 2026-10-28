@@ -1,81 +1,71 @@
-Buenos días, es martes veintisiete de octubre. Hoy el programa va de dinero: quién lo tiene, quién lo necesita y a quién se lo están retirando.
+Buenos días, es miércoles veintiocho de octubre. Hoy es uno de esos días en los que todo converge: la Reserva Federal decide sobre los tipos, y Microsoft y Alphabet presentan cuentas esta misma tarde.
 
-Te cuento primero cómo ha sentado en Madrid la victoria de Lula, porque ayer dos de los grandes del Ibex pagaron la factura. Después, la semana en la que la inteligencia artificial sale a pedir capital a los mercados. Y terminamos con unos bancos centrales que se juegan mucho esta semana.
+Te cuento primero por qué esas dos cosas son en realidad la misma historia: cuánto cuesta financiar la inteligencia artificial. Después, el cuadro completo de bonos, dólar y bancos centrales. Luego el petróleo, que vuelve a dar un susto. Y terminamos con España y startups.
 
-Empiezo por Brasil, pero desde el ángulo español. Ayer te contaba lo que se esperaba. Hoy sabemos lo que pasó, y fue bastante más duro de lo previsto.
+Empiezo por la inteligencia artificial. Ayer te contaba que Anthropic, Meta y SpaceX habían salido a buscar capital a la vez. Hoy toca ver si los números de las grandes tecnológicas justifican tanto dinero.
 
-Según Reuters, la bolsa brasileña se dejó en torno a un catorce por ciento. El real sufrió su peor día desde la devaluación de mil novecientos noventa y nueve. El banco central recompró bonos y canceló subastas para evitar un desorden mayor.
+Según Reuters, Microsoft, Alphabet y Amazon planean gastar este año hasta seiscientos mil millones de dólares entre las tres. Y los inversores ya no aplauden el gasto por sí solo. Meta lo comprobó la semana pasada. Presentó buenos ingresos y buenas perspectivas, pero anunció más inversión, y la acción cayó cerca de un siete por ciento al día siguiente.
 
-¿Por qué tanto castigo? Por la sorpresa. Hasta el domingo, los mercados de predicción daban a Flávio Bolsonaro casi un ochenta por ciento de opciones. Los inversores habían comprado ese escenario, y el lunes tocó deshacerlo de golpe.
+Nick Ferres, director de inversiones de Vantage Point, lo resume con una frase que me parece muy buena. Dice que las bolsas han tratado la inteligencia artificial como una oportunidad de crecimiento. El mercado de crédito, en cambio, ha empezado a ponerle precio al riesgo de financiarla.
 
-Thierry Larose, de Vontobel, lo explica así: los activos brasileños habían descontado un ajuste fiscal rápido y profundo. Cree que Lula tendrá que hacer también algo de consolidación, pero duda de que baste para sanear la deuda.
+Y eso se ve en cosas concretas. Han subido los rendimientos de los bonos de CoreWeave, una de esas empresas de computación en la nube dedicadas a la inteligencia artificial. Y asegurar la deuda de Meta cuesta ahora más que nunca. Es el síntoma de que quien tiene un balance más débil lo está pasando peor.
 
-Bankinter añade un matiz importante. El partido de Bolsonaro gana terreno en el Congreso y en el Senado, y eso limita lo que Lula puede aprobar. Es decir, ni giro radical ni margen para grandes cambios.
+¿Qué se espera esta tarde? Que la nube de Microsoft y la de Google aceleren su crecimiento. La duda está en el otro lado. Alphabet y Amazon podrían consumir caja un trimestre más, algo impensable hace no tanto para compañías que eran máquinas de generar efectivo.
 
-Y aquí viene lo que afecta a tu mundo. Telefónica llegó a caer más de siete por ciento y tocó su nivel más bajo desde finales de dos mil veinte. Brasil aporta alrededor de un tercio de su resultado bruto de explotación, según elEconomista.
+Hay además dos detalles de lectura fina. Microsoft estrena hoy una nueva forma de presentar sus segmentos. Y por primera vez dará la cifra absoluta de ingresos de su nube Azure, no solo el crecimiento. Es una petición vieja de los analistas.
 
-Santander cedió entre tres y cinco por ciento, según el momento de la sesión. Más de una quinta parte de su negocio está en Brasil. Mapfre y Cellnex también se resintieron, aunque menos.
+En Alphabet, el negocio de la nube y los chips propios brillan, pero el buscador preocupa. Andrew Boone, analista de Citizens, dice que esta vez los comentarios de la directiva pesarán tanto como las cifras. Los agentes de inteligencia artificial compiten cada vez más con la búsqueda.
 
-Ahora bien, no todo fue Lula. El mismo día, JP Morgan rebajó Telefónica a infraponderar. Su analista Akhil Dattani habla de riesgo de crédito y de una posible ampliación de capital. El motivo es la deuda de Virgin Media O2, su empresa conjunta en el Reino Unido.
+Ahora, una señal en sentido contrario que llegó esta madrugada desde Corea. SK Hynix fabrica la memoria clave para los chips de inteligencia artificial. Multiplicó por más de siete su beneficio trimestral y devolverá a sus accionistas unos setenta y cinco mil millones de dólares este año.
 
-Esto matiza el titular fácil de que Brasil se ha cargado a Telefónica. Hubo dos golpes a la vez, y es difícil saber cuánto pesó cada uno. Mi lectura es que el castigo brasileño fue el detonante, pero la rebaja de JP Morgan le dio argumentos a quien ya quería vender.
+Lo llamativo es el mensaje. La compañía dice que tiene vendida toda su memoria avanzada hasta dos mil veintinueve y que la demanda duplica lo que puede fabricar. Su director financiero admite, eso sí, que los clientes miran ya con más lupa la rentabilidad de cada proyecto y afinan los plazos de inversión.
 
-También conviene decir que Telefónica lleva años cubriéndose. Se financia en reales para que sus deudas compensen sus ingresos en esa moneda. Vontobel, por su parte, recuerda que el banco central brasileño y el Tesoro tienen munición para frenar el pánico.
+Ryu Young-ho, analista de NH Investment, cree que los resultados han calmado muchas dudas del mercado. La bolsa surcoreana se disparó más de un seis por ciento.
 
-Para quien trabaja en finanzas corporativas, la lección es práctica. Si tu empresa tiene filiales en Brasil, el coste de financiación local y la conversión de beneficios a euros se mueven esta semana. Lo que yo vigilaría es quién será ministro de Economía. Esa señal decidirá si el castigo se corrige o se alarga.
+Mi lectura es que hoy conviven dos relatos. Quien fabrica los chips y las memorias sigue sin dar abasto. Quien tiene que pagar la factura y demostrar retorno es quien está bajo presión. Es una interpretación mía, y esta tarde sabremos cuál de los dos pesa más.
 
-Cambiamos de tercio, porque la otra gran conversación de ayer fue la financiación de la inteligencia artificial.
+Pasamos a los bancos centrales, porque la Reserva Federal anuncia hoy su decisión. Lo esperado es que mantenga los tipos, tras la subida de septiembre. Ayer te lo avanzaba. Lo que no estaba tan claro es lo cerrado que está el debate dentro del propio banco.
 
-El lunes coincidieron tres operaciones enormes. Anthropic presentó ante el regulador estadounidense los documentos para salir a bolsa en el Nasdaq. Meta anunció que quiere levantar hasta noventa y cinco mil millones de dólares, la mayor ampliación de capital de su historia. Y SpaceX cerró con Apollo una financiación de unos cuarenta mil millones para comprar chips.
+Los analistas de JPMorgan anticipan al menos dos votos disidentes en sentido más duro, es decir, miembros que querrían subir. Scott Anderson, de BMO, apunta a la presidenta de la Fed de Cleveland, Beth Hammack, como la voz más probable.
 
-Una aclaración de transparencia. Este programa lo elabora una inteligencia artificial, y el modelo que lo escribe es de Anthropic. Descuenta mi opinión sobre esa empresa si quieres; los datos los cuento tal como los publican la prensa y los documentos.
+Su presidente, Kevin Warsh, es poco aficionado a dar pistas sobre lo que viene. Gregory Daco, de EY-Parthenon, avisa de que si no da ninguna señal y solo dice que espera más datos, el mercado lo leerá como falta de credibilidad. Y eso, según él, podría disparar los rendimientos más que una subida real.
 
-Vamos con Anthropic. Según El Periódico, que repasa el documento presentado, los ingresos del primer semestre se multiplicaron por catorce y rozaron los dieciséis mil millones de dólares. Una quinta parte venía de solo dos grandes clientes.
+Chris Weston, de Pepperstone, lo dice de otra manera: la Fed no necesita subir hoy para mover los mercados, le basta con cambiar la probabilidad de una subida en diciembre. JPMorgan añade un matiz curioso. Cree que si Warsh evita dar explicaciones, el mercado lo interpretará como un gesto más suave.
 
-La otra cara son las pérdidas. El mismo diario habla de más de ochenta mil millones en seis meses, por la inversión en centros de datos y capacidad de cálculo. El debut se espera a mediados de noviembre, con una valoración que podría rondar el billón y medio de dólares.
+Hay también un telón de fondo político. Las elecciones legislativas en Estados Unidos son dentro de seis días, y Daco recuerda que Warsh tendrá que demostrar que la decisión no responde a esa fecha.
 
-Reuters titula que el documento muestra crecimiento explosivo, riesgos y costes descomunales. Es una buena síntesis. Hay mucho dinero entrando, pero hace falta mucho más dinero todavía para sostener el ritmo.
+Y aquí enlazo con los bonos. El rendimiento del bono estadounidense a diez años ronda el cinco por ciento. Christian Hoffmann, de Thornburg, sostiene que la Fed ya no es la única protagonista. Dice que el ciclo de inversión en inteligencia artificial y el apetito por el riesgo mandan más que unas décimas arriba o abajo en los tipos.
 
-Y esa es la idea que enlaza las tres operaciones. Meta registró en el tercer trimestre su primer flujo de caja libre negativo en más de diez años. Antes pagaba la inteligencia artificial con caja. Ahora la paga con deuda y con accionistas.
+Oli Shale, de Ruffer, añade el otro factor: el déficit. Cree que, gane quien gane en noviembre, no habrá una verdadera contención del gasto en Washington. Esa mezcla, inflación terca más mucha emisión de deuda, es la que mantiene los bonos largos bajo presión.
 
-Hay un detalle que a algunos analistas les inquieta. Nvidia, AMD y Broadcom han mostrado interés en comprar hasta cinco mil millones en acciones de Meta. Es decir, los fabricantes de chips ayudan a financiar a uno de sus mejores clientes. Reuters habla de preocupación por un flujo de capital cada vez más circular.
+Todo esto toca también al dólar, y esta es una idea que me ha parecido muy interesante. Reuters publica hoy un análisis sobre el dinero extranjero que ha entrado en bolsa y bonos de empresas estadounidenses por el auge de la inteligencia artificial. Podría debilitar el papel del dólar como refugio.
 
-Los analistas de William Blair lo ven con cierto equilibrio. Creen que la operación refleja confianza de Meta en los retornos futuros, pero esperan que los inversores sigan cuestionando cómo se financia todo esto.
+Erik Nelson, de Wells Fargo, compara ese capital con el dinero especulativo que domina los mercados emergentes. Dominic Bunning, de Nomura, advierte de que, si la inteligencia artificial tropieza, no está tan claro que el dólar se beneficie como en otras crisis. La semana pasada, cuando cayeron las tecnológicas, el yen y el franco suizo recibieron más compras que el billete verde.
 
-¿Y los mercados? Ayer lo digirieron bien. Wall Street subió, con la tecnología al frente. Jamie McGeever, columnista de Reuters, escribe que si había cansancio con la inteligencia artificial, ayer se disimuló muy bien.
+Un último apunte de bancos centrales, por lo que tiene de sorpresa. El banco central de Nueva Zelanda mantuvo ayer los tipos por sorpresa, con un voto muy dividido, cuando casi todos los economistas esperaban una subida. Carol Kong, del Commonwealth Bank de Australia, comentó que es un recordatorio de que los bancos centrales no reciben órdenes del mercado. La moneda neozelandesa se hundió.
 
-Pero el propio McGeever publicó otra columna con un tono distinto. Plantea que una burbuja de inteligencia artificial que se desinfla presionaría el crecimiento, mientras el petróleo empuja la inflación. Esa combinación, dice, recuerda a la estanflación y deja a la Fed en una situación incómoda.
+Hoy también decide el banco de Canadá, donde se espera una subida. Y esta misma semana, el Banco Central Europeo y el Banco de Japón, que deberían dejar los tipos quietos. Mañana, además, llega el dato de inflación preferido por la Fed.
 
-Mi interpretación es que estamos en una fase de selección. Hay capital para los que tienen ingresos que crecen como los de Anthropic, y menos paciencia para el resto. Pero es una lectura mía, no un hecho. Esta semana lo pondrán a prueba los resultados de Alphabet, Microsoft y Amazon.
+Cambiamos de tercio, porque el petróleo vuelve a la conversación. Los hutíes, aliados de Irán en Yemen, afirman haber alcanzado con un misil la refinería saudí de Ras Tanura, la mayor del país. Las autoridades saudíes no lo habían confirmado a primera hora.
 
-Para un director financiero en España, la consecuencia indirecta es el coste del dinero. Cuando las mayores empresas del mundo compiten por levantar cientos de miles de millones, el capital se encarece para los demás. Es un efecto lento, pero real.
+El futuro del Brent ronda otra vez los ciento quince dólares, más de un uno por ciento al alza. Ayer había bajado casi dos dólares por las esperanzas de negociación. Mohsen Rezaei, jefe de seguridad iraní, se reunió con el líder supremo tras hablar con representantes de Arabia Saudí, Turquía y Pakistán.
 
-Y eso nos lleva a los bancos centrales, que cierran la historia del día.
+Los estrategas de ING creen que el mercado sigue descontando más probabilidad de nueva escalada. Y añaden algo que merece atención: si pasan las elecciones estadounidenses sin nuevos ataques a Irán, eso podría bastar para que la prima de riesgo del crudo empiece a disiparse. Lo marco como su hipótesis, no como un hecho.
 
-Esta semana decide la mitad de los bancos centrales del llamado Grupo de los Diez. Se esperan subidas en Nueva Zelanda y en Canadá. La Reserva Federal, el Banco Central Europeo y el Banco de Japón deberían dejar los tipos quietos, pero avisando de posibles subidas en diciembre.
+Para quien lleva las cuentas de una empresa en España, el hilo es claro. Petróleo caro alimenta la inflación, la inflación empuja a la Fed y a los bonos, y los bonos encarecen toda la financiación. Todo está conectado, y por eso hoy es un día de tantas cosas a la vez.
 
-La Fed decide mañana. Los mercados descuentan que mantendrá los tipos, tras la subida de septiembre, la primera desde dos mil veintitrés. Según CNBC, la probabilidad de otra subida esta semana es inferior al diez por ciento. En cambio, tres de cada cuatro operadores esperan al menos una antes de que acabe el año.
+Y ahora, España y startups.
 
-La razón es la inflación. En Estados Unidos subió en septiembre hasta el tres coma siete por ciento. El petróleo es el culpable principal, con la guerra con Irán como telón de fondo.
+El Ibex cerró ayer su tercera sesión seguida al alza, algo por encima de los diecinueve mil ciento sesenta puntos. Repsol fue la excepción, por la caída del crudo. El protagonista fue Ferrovial, que subió más de un ocho por ciento.
 
-El Brent ha cedido algo tras tocar su cierre semanal más alto desde mediados de dos mil veintidós. Ayer circulaban informes de mediadores de Catar en Teherán, y Trump dijo estar sopesando un acuerdo. El mercado ya ha visto esa película varias veces, como recordaba investingLive.
+El motivo fue una aclaración. Ferrovial explicó que los veinticuatro mil ochocientos millones de dólares de la autopista I-24 de Nashville mezclaban importes descontados y nominales. En valor presente equivalen a unos veintiún mil millones. Según Estrategias de Inversión, además, el acuerdo con Tennessee permite aplazar más de la mitad del desembolso hasta la fase de explotación.
 
-Aquí hay dos lecturas. Goldman Sachs cree que la Fed no subirá ahora, pero sí en diciembre, y su mayor riesgo es un petróleo más caro de lo previsto. Heather Long, de Navy Federal Credit Union, añade un matiz político: a pocos días de las elecciones legislativas, no espera subida en octubre.
+Conviene la cautela. JP Morgan había rebajado la recomendación de la compañía a comienzos de mes por la rentabilidad de ese proyecto, y la acción llevaba cayendo desde agosto. Una parte del rebote es recuperar lo perdido. Los resultados del trimestre salieron anoche y no he podido revisarlos, y la directiva los comenta hoy en una conferencia con inversores.
 
-En el lado contrario, Aditya Bhave, de Bank of America, advierte de que si la Fed no actúa, el mercado podría dudar de su credibilidad. Es un debate interesante. Unos piden prudencia política, otros firmeza.
+Otras dos noticias de empresas. Bloomberg publica que Iberdrola estudia vender su filial polaca por hasta cuatrocientos millones de euros. Y la eléctrica cerró una emisión de bonos verdes de unos mil seiscientos millones de dólares. En la CNMV, la consulta que he podido hacer no mostraba nada nuevo de calado.
 
-Un apunte europeo, porque también te afecta. Moody's mantuvo la nota de Francia a finales de la semana pasada. La prima de la deuda francesa frente a la alemana bajó, y eso dio aire a las bolsas del continente. Es un respiro, no una solución.
+En startups, tres operaciones. Vera Health es una plataforma de inteligencia artificial clínica que, según El Español, usa uno de cada cuatro médicos en España. Ha captado treinta y dos millones de dólares, con una serie A liderada por Threshold Ventures. La valenciana Linkener levanta siete millones y medio para gestionar energía con inteligencia artificial, con el fondo Klima al frente. Y Criteria entra en Artiso, la startup de antiguos directivos de Mango, en una ronda de más de tres millones de euros.
 
-Ahora, España y startups.
+Cerramos con lo que conviene vigilar hoy. Primero, la decisión de la Fed y la rueda de prensa de Warsh: cuántos votos en contra hay y si deja la puerta abierta a diciembre. Segundo, las cuentas de Microsoft y Alphabet, sobre todo el gasto frente a la caja y la cifra absoluta de Azure. Y tercero, el crudo y cualquier confirmación sobre el ataque saudí.
 
-En el mercado español, el hecho relevante más serio de ayer en la CNMV fue de Tubos Reunidos, que comunicó que el juzgado ha abierto la fase de liquidación. Es una noticia triste y, en cuanto a bolsa, un punto final.
-
-En startups tenemos datos del Observatorio de la Fundación Innovación Bankinter. Las empresas españolas han captado casi cuatro mil millones de euros en los nueve primeros meses, casi la mitad más que hace un año.
-
-Pero cuidado con la lectura. Dieciséis megarrondas concentran dos de cada tres euros. Multiverse Computing, con quinientos millones, es la mayor ronda de la serie histórica del observatorio. Sin las grandes operaciones, el volumen cae y el número de rondas también.
-
-Barcelona y Madrid llegan casi empatadas, con una diferencia de unos veinte millones. Y el resto de España ya supera a cada una de las dos ciudades por separado. Lo impulsan rondas como Multiverse, en San Sebastián, o PLD Space, en Elche.
-
-Cerramos con lo que conviene vigilar hoy. Primero, cualquier señal sobre quién ocupará el ministerio de Economía de Lula, porque de ahí depende el real y buena parte del ánimo sobre Telefónica y Santander. Segundo, el tono de la Fed mañana y si deja la puerta abierta a diciembre. Y tercero, los resultados de las grandes tecnológicas, que dirán si el dinero que se pide a los mercados está bien gastado.
-
-Hasta aquí el programa de hoy. Gracias por escucharme y que tengas un buen martes.
+Hasta aquí el programa de hoy. Gracias por escucharme y que tengas un buen miércoles.
