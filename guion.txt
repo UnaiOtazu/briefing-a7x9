@@ -1,71 +1,57 @@
-Buenos días, es miércoles veintiocho de octubre. Hoy es uno de esos días en los que todo converge: la Reserva Federal decide sobre los tipos, y Microsoft y Alphabet presentan cuentas esta misma tarde.
+Buenos días, es jueves veintinueve de octubre. Ayer te dejé con dos citas pendientes, la Reserva Federal y las cuentas de Microsoft y Alphabet. Las dos han llegado, y las dos cuentan lo mismo desde ángulos distintos.
 
-Te cuento primero por qué esas dos cosas son en realidad la misma historia: cuánto cuesta financiar la inteligencia artificial. Después, el cuadro completo de bonos, dólar y bancos centrales. Luego el petróleo, que vuelve a dar un susto. Y terminamos con España y startups.
+Hoy te cuento cómo el mercado ha empezado a separar a las empresas de inteligencia artificial según una sola pregunta: ¿quién paga la factura? Después, una Fed que mantiene los tipos pero deja a los bonos más nerviosos que antes. Y terminamos con España, el Banco Central Europeo y lo que conviene vigilar.
 
-Empiezo por la inteligencia artificial. Ayer te contaba que Anthropic, Meta y SpaceX habían salido a buscar capital a la vez. Hoy toca ver si los números de las grandes tecnológicas justifican tanto dinero.
+Empiezo por el dato que más ha movido el tablero. Ayer te dije que esta tarde sabríamos qué relato pesaba más, el de quien fabrica los chips o el de quien paga la factura. Pues ya hay respuesta, y es que manda la caja.
 
-Según Reuters, Microsoft, Alphabet y Amazon planean gastar este año hasta seiscientos mil millones de dólares entre las tres. Y los inversores ya no aplauden el gasto por sí solo. Meta lo comprobó la semana pasada. Presentó buenos ingresos y buenas perspectivas, pero anunció más inversión, y la acción cayó cerca de un siete por ciento al día siguiente.
+Vamos con Microsoft. Presentó un trimestre que Jesse Cohen, de Investing punto com, describe como casi perfecto para una compañía de ese tamaño. Su nube Azure creció casi un cincuenta por ciento. Pero lo que de verdad sorprendió fue el flujo de caja libre, unos diez mil millones de dólares por encima de lo que esperaban los analistas.
 
-Nick Ferres, director de inversiones de Vantage Point, lo resume con una frase que me parece muy buena. Dice que las bolsas han tratado la inteligencia artificial como una oportunidad de crecimiento. El mercado de crédito, en cambio, ha empezado a ponerle precio al riesgo de financiarla.
+Hay un matiz importante. Microsoft invirtió algo menos de lo que había anunciado. La empresa lo atribuye a retrasos en la entrega de capacidad de terceros, no a un cambio de planes. Es decir, ese ahorro es temporal. Lo marco porque conviene no leerlo como una señal de moderación en el gasto.
 
-Y eso se ve en cosas concretas. Han subido los rendimientos de los bonos de CoreWeave, una de esas empresas de computación en la nube dedicadas a la inteligencia artificial. Y asegurar la deuda de Meta cuesta ahora más que nunca. Es el síntoma de que quien tiene un balance más débil lo está pasando peor.
+Además, Satya Nadella dijo en la conferencia con analistas que lo llamativo, lo de estar siempre en la última novedad, ya está perdiendo peso. Según él, cada vez más empresas firman contratos a largo plazo. Y añadió que prefiere paciencia antes que vender barato. Para Microsoft, el mensaje es que quiere amplitud de clientes y no depender de unos pocos gigantes.
 
-¿Qué se espera esta tarde? Que la nube de Microsoft y la de Google aceleren su crecimiento. La duda está en el otro lado. Alphabet y Amazon podrían consumir caja un trimestre más, algo impensable hace no tanto para compañías que eran máquinas de generar efectivo.
+Ahora el reverso. Alphabet, la matriz de Google, tuvo un trimestre que el mercado castigó con dureza. Sus acciones llegaron a caer cerca de un diez por ciento fuera del horario normal. Eso son casi cuatrocientos mil millones de dólares de valor en una noche.
 
-Hay además dos detalles de lectura fina. Microsoft estrena hoy una nueva forma de presentar sus segmentos. Y por primera vez dará la cifra absoluta de ingresos de su nube Azure, no solo el crecimiento. Es una petición vieja de los analistas.
+¿Por qué? Hay dos motivos que se refuerzan entre sí. El primero es la caja. Alphabet quemó unos nueve mil millones de dólares, y es el segundo trimestre seguido en negativo, algo que no le había pasado en veintidós años como empresa cotizada. Su directora financiera avisó de que la inversión del año que viene subirá de forma significativa.
 
-En Alphabet, el negocio de la nube y los chips propios brillan, pero el buscador preocupa. Andrew Boone, analista de Citizens, dice que esta vez los comentarios de la directiva pesarán tanto como las cifras. Los agentes de inteligencia artificial compiten cada vez más con la búsqueda.
+El segundo motivo es el buscador. Su crecimiento fue menor del esperado. La propia empresa lo achaca a un mayor uso de su modo de búsqueda con inteligencia artificial, donde todavía prueba cómo meter publicidad. Dave Wagner, de Aptus Capital, lo resume así: la nube sostiene la historia, pero hasta que el buscador demuestre que la inteligencia artificial suma y no resta, la acción lo pasará mal.
 
-Ahora, una señal en sentido contrario que llegó esta madrugada desde Corea. SK Hynix fabrica la memoria clave para los chips de inteligencia artificial. Multiplicó por más de siete su beneficio trimestral y devolverá a sus accionistas unos setenta y cinco mil millones de dólares este año.
+Y aquí está lo interesante, porque la nube de Google fue en realidad estupenda. Sus ingresos se duplicaron y su cartera de contratos pendientes ha crecido muchísimo. Es decir, el negocio de infraestructura va como un tiro. El problema es que consume más dinero del que genera el resto.
 
-Lo llamativo es el mensaje. La compañía dice que tiene vendida toda su memoria avanzada hasta dos mil veintinueve y que la demanda duplica lo que puede fabricar. Su director financiero admite, eso sí, que los clientes miran ya con más lupa la rentabilidad de cada proyecto y afinan los plazos de inversión.
+No todos ven esto como un problema. Jeremy Saltzberg, de Check Capital, que tiene acciones de Alphabet, sostiene que esto es un deporte de reyes. Según él, quien no pueda gastar cantidades enormes el año que viene ni debería presentarse. Esa es la otra visión, y no es tonta: si OpenAI y Anthropic van por delante, recortar inversión también tiene un riesgo.
 
-Ryu Young-ho, analista de NH Investment, cree que los resultados han calmado muchas dudas del mercado. La bolsa surcoreana se disparó más de un seis por ciento.
+Un detalle que me llamó la atención. Los analistas de Bernstein se preguntaron en una nota si Google lanzó sus nuevos modelos Gemini justo ese día para compensar unas cifras más flojas. Es una pregunta suya, no una conclusión, pero ilustra la desconfianza.
 
-Mi lectura es que hoy conviven dos relatos. Quien fabrica los chips y las memorias sigue sin dar abasto. Quien tiene que pagar la factura y demostrar retorno es quien está bajo presión. Es una interpretación mía, y esta tarde sabremos cuál de los dos pesa más.
+Para completar el cuadro, Oracle subió con fuerza ayer. Prometió poner un techo a su financiación externa y volver a generar caja hacia dos mil veintiocho. Y Meta, la semana pasada, registró su primera quema de caja en más de una década y anunció que emitirá acciones nuevas. Melissa Otto, de S&P Global Visible Alpha, dice que Microsoft y Alphabet fueron como el día y la noche.
 
-Pasamos a los bancos centrales, porque la Reserva Federal anuncia hoy su decisión. Lo esperado es que mantenga los tipos, tras la subida de septiembre. Ayer te lo avanzaba. Lo que no estaba tan claro es lo cerrado que está el debate dentro del propio banco.
+Mi lectura es que el mercado ha cambiado la pregunta. Hasta hace poco se premiaba gastar rápido para asegurarse capacidad. Ahora se premia gastar con los bolsillos propios. Es una interpretación mía, pero encaja con lo que ya veíamos en el crédito.
 
-Los analistas de JPMorgan anticipan al menos dos votos disidentes en sentido más duro, es decir, miembros que querrían subir. Scott Anderson, de BMO, apunta a la presidenta de la Fed de Cleveland, Beth Hammack, como la voz más probable.
+Y hay un efecto en cadena que no conviene perder de vista. Samsung batió récords de beneficio y aun así sus acciones cayeron, tras la subida de SK Hynix que te conté ayer. Reuters lo explica así: los fabricantes de equipos ganan mientras los gigantes de la nube puedan permitirse financiar sus pedidos. Si no pueden, el ciclo se resiente. Los futuros del Nasdaq amanecían a la baja, con Amazon e Intel todavía por presentar cuentas hoy.
 
-Su presidente, Kevin Warsh, es poco aficionado a dar pistas sobre lo que viene. Gregory Daco, de EY-Parthenon, avisa de que si no da ninguna señal y solo dice que espera más datos, el mercado lo leerá como falta de credibilidad. Y eso, según él, podría disparar los rendimientos más que una subida real.
+Cambiamos de tercio, porque la Reserva Federal también habló. Como se esperaba, mantuvo los tipos. Lo que no estaba tan claro es cómo lo hizo. Fue una decisión de diez votos contra dos, con la gobernadora Lisa Cook y la presidenta de la Fed de Cleveland, Beth Hammack, votando a favor de subirlos. Fortune recuerda que es la primera vez desde mil novecientos noventa y dos que un gobernador y un presidente regional discrepan juntos.
 
-Chris Weston, de Pepperstone, lo dice de otra manera: la Fed no necesita subir hoy para mover los mercados, le basta con cambiar la probabilidad de una subida en diciembre. JPMorgan añade un matiz curioso. Cree que si Warsh evita dar explicaciones, el mercado lo interpretará como un gesto más suave.
+Ayer te decía que JPMorgan esperaba al menos dos votos en contra y que Hammack era la voz más probable. Acertó en el número. Lo de Cook sí es una sorpresa, y más porque el presidente Trump intenta destituirla. Chris Rupkey, de FWDBONDS, apunta que podría ser un voto de protesta por esa batalla legal. Es su hipótesis.
 
-Hay también un telón de fondo político. Las elecciones legislativas en Estados Unidos son dentro de seis días, y Daco recuerda que Warsh tendrá que demostrar que la decisión no responde a esa fecha.
+En la rueda de prensa, Kevin Warsh dijo que la política no tuvo ningún papel en la decisión. Recuerda que las elecciones legislativas son dentro de pocos días. Insistió además en que la economía no está recalentada. Defendió que la productividad permite crecer más sin tanta inflación y que no hace falta, dijo, echar arena en los engranajes de la economía.
 
-Y aquí enlazo con los bonos. El rendimiento del bono estadounidense a diez años ronda el cinco por ciento. Christian Hoffmann, de Thornburg, sostiene que la Fed ya no es la única protagonista. Dice que el ciclo de inversión en inteligencia artificial y el apetito por el riesgo mandan más que unas décimas arriba o abajo en los tipos.
+Aquí viene lo curioso. Oxford Economics sostiene que las fuerzas que mantienen de línea dura a la Fed no se han ido: carburantes caros, una inflación ligada a la inteligencia artificial y un mercado laboral firme. Y Citigroup cree que Warsh exagera la fortaleza de la economía, lo que, según su economista jefe, deja un listón bajo para una sorpresa negativa. Dos lecturas opuestas de la misma economía.
 
-Oli Shale, de Ruffer, añade el otro factor: el déficit. Cree que, gane quien gane en noviembre, no habrá una verdadera contención del gasto en Washington. Esa mezcla, inflación terca más mucha emisión de deuda, es la que mantiene los bonos largos bajo presión.
+El mercado, en conjunto, tomó el mensaje como algo más suave. Los bonos a corto plazo se animaron. Pero los bonos largos se vendieron, y la curva se empinó. Según Reuters, los rendimientos a largo plazo están en máximos de hace veinte años.
 
-Todo esto toca también al dólar, y esta es una idea que me ha parecido muy interesante. Reuters publica hoy un análisis sobre el dinero extranjero que ha entrado en bolsa y bonos de empresas estadounidenses por el auge de la inteligencia artificial. Podría debilitar el papel del dólar como refugio.
+Anders Persson, de Nuveen, lo explica con claridad. Si hay crecimiento fuerte, habrá más inflación, y entonces las dudas sobre el déficit pesan más. Por eso el extremo largo de la curva se resiente aunque la Fed espere. En cambio, la probabilidad de una subida en diciembre sigue rondando el ochenta por ciento.
 
-Erik Nelson, de Wells Fargo, compara ese capital con el dinero especulativo que domina los mercados emergentes. Dominic Bunning, de Nomura, advierte de que, si la inteligencia artificial tropieza, no está tan claro que el dólar se beneficie como en otras crisis. La semana pasada, cuando cayeron las tecnológicas, el yen y el franco suizo recibieron más compras que el billete verde.
+Por último, Warsh dio una noticia de procedimiento que puede importar más de lo que parece. La Fed pasará de ocho reuniones a siete el año que viene y a seis dentro de dos años, porque dedicará algunas a hablar de estrategia sin decidir tipos. Eso alarga los huecos entre decisiones a doce o trece semanas. Wayne Cole, de Reuters, lo resume con una expresión: una nueva era de silencio sobre el futuro.
 
-Un último apunte de bancos centrales, por lo que tiene de sorpresa. El banco central de Nueva Zelanda mantuvo ayer los tipos por sorpresa, con un voto muy dividido, cuando casi todos los economistas esperaban una subida. Carol Kong, del Commonwealth Bank de Australia, comentó que es un recordatorio de que los bancos centrales no reciben órdenes del mercado. La moneda neozelandesa se hundió.
+¿Qué significa todo esto para quien lleva las cuentas de una empresa en España? Lo veo así, y es mi interpretación. El dinero seguirá caro más tiempo. Y las empresas que se financian bien serán las que generan caja, como pasa ahora con las tecnológicas. La disciplina que el mercado exige a Alphabet también se la exigirá el banco a un director financiero cualquiera.
 
-Hoy también decide el banco de Canadá, donde se espera una subida. Y esta misma semana, el Banco Central Europeo y el Banco de Japón, que deberían dejar los tipos quietos. Mañana, además, llega el dato de inflación preferido por la Fed.
+Hoy se suma otra cita. El Banco Central Europeo decide sobre tipos. Una encuesta de Reuters de principios de mes apuntaba a que mantendría el precio del dinero y subiría en diciembre. Hoy importará menos lo que decida que lo que sugiera. Y también esperamos el crecimiento de Estados Unidos en el tercer trimestre y el dato de inflación que prefiere la Fed. Mañana decide el Banco de Japón.
 
-Cambiamos de tercio, porque el petróleo vuelve a la conversación. Los hutíes, aliados de Irán en Yemen, afirman haber alcanzado con un misil la refinería saudí de Ras Tanura, la mayor del país. Las autoridades saudíes no lo habían confirmado a primera hora.
+Y ahora, España. Sabadell presentó esta mañana beneficios mejores de lo previsto. Ganó cuatrocientos cinco millones de euros, frente a los trescientos setenta y cinco que esperaban los analistas, según Reuters. El beneficio subyacente creció casi un veinte por ciento por mayores ingresos de los préstamos.
 
-El futuro del Brent ronda otra vez los ciento quince dólares, más de un uno por ciento al alza. Ayer había bajado casi dos dólares por las esperanzas de negociación. Mohsen Rezaei, jefe de seguridad iraní, se reunió con el líder supremo tras hablar con representantes de Arabia Saudí, Turquía y Pakistán.
+Eso sí, el margen de intereses, lo que ganan prestando menos lo que pagan por los depósitos, quedó apenas por debajo de lo esperado. Reuters explica que los tipos más altos empiezan a ayudar a los bancos españoles, pero que el reajuste de lo que pagan a sus clientes lo compensa en parte. Y ahora Sabadell juega en solitario, tras vender su filial británica TSB a Santander en mayo.
 
-Los estrategas de ING creen que el mercado sigue descontando más probabilidad de nueva escalada. Y añaden algo que merece atención: si pasan las elecciones estadounidenses sin nuevos ataques a Irán, eso podría bastar para que la prima de riesgo del crudo empiece a disiparse. Lo marco como su hipótesis, no como un hecho.
+Sobre el resto, sé de la sesión de ayer menos de lo que me gustaría. No he podido confirmar el cierre del Ibex ni los resultados de Ferrovial. Tampoco he podido consultar de forma fiable los hechos relevantes de la CNMV, y en startups hoy no tengo nada contrastado que contarte.
 
-Para quien lleva las cuentas de una empresa en España, el hilo es claro. Petróleo caro alimenta la inflación, la inflación empuja a la Fed y a los bonos, y los bonos encarecen toda la financiación. Todo está conectado, y por eso hoy es un día de tantas cosas a la vez.
+Cerramos con lo que conviene vigilar. Primero, la reacción de Alphabet cuando abra Wall Street, y si Amazon confirma o desmiente que la caja manda. Segundo, el dato de crecimiento y de precios en Estados Unidos, porque pondrá a prueba si la Fed tenía razón al hablar de una economía fuerte. Y tercero, el mensaje del Banco Central Europeo esta tarde, más que la decisión en sí.
 
-Y ahora, España y startups.
-
-El Ibex cerró ayer su tercera sesión seguida al alza, algo por encima de los diecinueve mil ciento sesenta puntos. Repsol fue la excepción, por la caída del crudo. El protagonista fue Ferrovial, que subió más de un ocho por ciento.
-
-El motivo fue una aclaración. Ferrovial explicó que los veinticuatro mil ochocientos millones de dólares de la autopista I-24 de Nashville mezclaban importes descontados y nominales. En valor presente equivalen a unos veintiún mil millones. Según Estrategias de Inversión, además, el acuerdo con Tennessee permite aplazar más de la mitad del desembolso hasta la fase de explotación.
-
-Conviene la cautela. JP Morgan había rebajado la recomendación de la compañía a comienzos de mes por la rentabilidad de ese proyecto, y la acción llevaba cayendo desde agosto. Una parte del rebote es recuperar lo perdido. Los resultados del trimestre salieron anoche y no he podido revisarlos, y la directiva los comenta hoy en una conferencia con inversores.
-
-Otras dos noticias de empresas. Bloomberg publica que Iberdrola estudia vender su filial polaca por hasta cuatrocientos millones de euros. Y la eléctrica cerró una emisión de bonos verdes de unos mil seiscientos millones de dólares. En la CNMV, la consulta que he podido hacer no mostraba nada nuevo de calado.
-
-En startups, tres operaciones. Vera Health es una plataforma de inteligencia artificial clínica que, según El Español, usa uno de cada cuatro médicos en España. Ha captado treinta y dos millones de dólares, con una serie A liderada por Threshold Ventures. La valenciana Linkener levanta siete millones y medio para gestionar energía con inteligencia artificial, con el fondo Klima al frente. Y Criteria entra en Artiso, la startup de antiguos directivos de Mango, en una ronda de más de tres millones de euros.
-
-Cerramos con lo que conviene vigilar hoy. Primero, la decisión de la Fed y la rueda de prensa de Warsh: cuántos votos en contra hay y si deja la puerta abierta a diciembre. Segundo, las cuentas de Microsoft y Alphabet, sobre todo el gasto frente a la caja y la cifra absoluta de Azure. Y tercero, el crudo y cualquier confirmación sobre el ataque saudí.
-
-Hasta aquí el programa de hoy. Gracias por escucharme y que tengas un buen miércoles.
+Hasta aquí el programa de hoy. Gracias por escucharme y que tengas un buen jueves.
