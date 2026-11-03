@@ -1,0 +1,217 @@
+Akantor. Plan fundacional. Tres de noviembre de dos mil veintiséis.
+
+Akantor, nombre provisional, es la empresa matriz donde Unai y su hermano van a construir herramientas con inteligencia artificial pensadas para que cualquiera pueda usarlas, no solo ellos.
+
+La recomendación para arrancar es sencilla. Un único repositorio privado en GitHub, dentro de una organización gratuita a nombre de los dos. Con un CLAUDE punto md raíz que guarda las reglas comunes, y una carpeta por proyecto con su propio CLAUDE punto md y su STATUS punto md. Google Drive no hace falta al principio.
+
+Lo que tienes que decidir tú ahora son tres cosas. El nombre, que está en la sección siete. Si usamos organización o repositorio personal, en la sección cuatro. Y por qué proyecto semilla empezamos, en la sección ocho. El organigrama visual va aparte, en un enlace.
+
+Sección uno. La visión, punto por punto.
+
+Akantor convierte las herramientas que hoy haces solo para ti en herramientas que cualquiera puede usar.
+
+Uno. Qué es. Una empresa matriz, o laboratorio, de herramientas con inteligencia artificial que montas con tu hermano. De ella cuelgan todos los proyectos.
+
+Dos. De dónde sale. Ya tienes herramientas propias, como el podcast personal y el plan de entrenamiento, que tus padres también quieren. Hoy están hechas a tu medida y no se pueden replicar.
+
+Tres. Hacia dónde va. Cada herramienta pasa de "para mí" a "para cualquiera". Una interfaz sencilla, plug and play, que sirva a quien no sabe nada de inteligencia artificial. Más adelante podrá ser una app móvil, una web o varias.
+
+Cuatro. Cómo crece. Una carpeta matriz con una subcarpeta por proyecto. Crece como un organigrama: salen ramas nuevas y algunas se conectan entre sí. Por ejemplo, el researcher alimenta al asesor de compra y al viaje a China.
+
+Cinco. Cómo funciona. Como una empresa con departamentos transversales, que son desarrollo, ciberseguridad, interfaz y research, y con proyectos. Se salta de un proyecto a otro según la motivación o la urgencia.
+
+Seis. Cómo trabajáis los dos. Cada uno con su propia cuenta de Claude, y ambos leyendo y escribiendo el mismo repositorio. El repositorio es la memoria compartida: quien llega lee el estado y sigue.
+
+Siete. Para qué. Crear por el gusto de crear y aprender, y ver hasta dónde llega cada idea.
+
+Ocho. El flujo de cualquier herramienta. El usuario explica lo que necesita, la inteligencia artificial le hace las preguntas justas, investiga y sugiere. Decidís juntos, y luego la inteligencia artificial ayuda a ejecutarlo.
+
+Sección dos. Las máximas obligatorias.
+
+Estas diez reglas se cumplen en todos los proyectos, los lleve quien los lleve. Las nueve primeras son tuyas. La décima es una propuesta que sale de lo que pediste al final.
+
+Uno. Replicable para otros. Todo se piensa para que otra persona, sea familia, amigos o cualquiera, pueda usarlo. Nada de datos personales metidos a fuego: lo personal va en una configuración aparte.
+
+Dos. Orden y estructura comunes. Proyectos distintos, mismas reglas básicas, misma forma de carpetas y documentos.
+
+Tres. Seguimiento siempre al día. Cada proyecto tiene su documento de estado: qué se hizo, siguientes pasos y contexto. Hay una memoria unificada de la empresa y una memoria propia por proyecto, y se actualizan al terminar cada sesión.
+
+Cuatro. El presente primero. No se resuelven problemas futuros por adelantado. Se avanza con lo de hoy y, cuando aparece un problema, se resuelve con actitud proactiva.
+
+Cinco. El creador lo entiende todo. Antes de ejecutar, la inteligencia artificial explica el plan paso a paso, con lógica humana, clara y concisa. La inteligencia artificial propone; el humano decide y da la orden.
+
+Seis. Preguntar en vez de suponer. Si falta un dato, la inteligencia artificial para y pregunta. Si algo no tiene sentido, tiene una prioridad rara o necesita algo antes, como instalar algo o crear una cuenta, lo avisa y pregunta: ¿lo hacemos?
+
+Siete. La inteligencia artificial propone ideas. No espera a que se le ocurra todo al humano: sugiere mejoras, riesgos y caminos que le parezcan relevantes.
+
+Ocho. Autoauditoría antes de responder. Si la petición tiene varios puntos, la inteligencia artificial comprueba uno por uno que se cumplen, y corrige lo que falle antes de entregar.
+
+Nueve. No inventar. Fuentes contrastadas y actuales: documentación oficial, foros como Reddit y especialistas. Lo que no se encuentra se dice: esto no lo he encontrado.
+
+Diez, que es una propuesta. Las reglas suben de nivel. Si en un proyecto aparece una regla que debería valer para todos, la inteligencia artificial avisa y propone moverla a las instrucciones generales.
+
+Hay una tensión que conviene tener clara. La máxima uno pide pensar en otros, y la cuatro pide no anticipar problemas. La propuesta para que convivan es esta. Desde el primer día se separa lo personal de lo general, que es barato y no tiene coste futuro. Pero cómo se reparte a otros, ya sea app, cuentas o pagos, se resuelve solo cuando toque.
+
+Sección tres. Proyectos semilla.
+
+Son cinco piezas, y tres de ellas se apoyan entre sí. El researcher es el motor, el vigilante de precios es el ojo diario, y el asesor de compra y el viaje a China los usan.
+
+El primero es el DJ personal. Recomienda música y playlists según tu gusto y el momento, y controla dónde suena. El primer paso mínimo es explorar en una sesión qué hace de verdad el conector de Spotify. Se apoya en el conector de Spotify en Claude.
+
+El segundo es el researcher máximo. Investiga un tema a fondo, con papers, blogs de especialistas, foros, Reddit y vídeos, como hiciste con la guía del gimnasio. El primer paso es escribir su metodología común: qué fuentes, cómo se contrastan y cómo se entrega. No depende de nada.
+
+El tercero es el asesor de compra. Es un cuestionario de unos diez minutos para quien no sabe qué quiere, con preguntas de tamaño, uso y presupuesto, y una recomendación final. El primer paso es diseñar el cuestionario para un producto de prueba, la tele. Se apoya en el researcher.
+
+El cuarto es el vigilante de precios. Cuando ya sabes qué quieres, revisa cada día tiendas o vuelos, avisa de ofertas y guarda el histórico. El primer paso es definir qué vigilar y dónde, por ejemplo vuelos a China. Se apoya en el asesor de compra o en el viaje.
+
+El quinto es el viaje a China. Decide cuántas semanas, qué ver sí o sí, cómo encajan los sitios y en qué fechas sale mejor el vuelo. El primer paso es una investigación inicial de rutas y duración. Se apoya en el researcher y en el vigilante de precios.
+
+Sobre el conector de Spotify, según el anuncio oficial de Spotify de abril de dos mil veintiséis. Da recomendaciones según tu gusto e historial, permite previsualizar, guardar y reproducir, y controla dispositivos con Spotify Connect. Funciona con Spotify Free y Premium, pero solo Premium crea playlists a partir de una descripción de ambiente. Está disponible para Claude Free, Pro y Max, en web, móvil y escritorio. Cada persona conecta su propia cuenta, así que para tus padres haría falta que cada uno tenga Claude y Spotify. No se ha encontrado una lista oficial completa de las acciones que permite, así que eso es justo lo que se explorará en el primer paso.
+
+Sobre el researcher, genérico o por categorías. La propuesta es un núcleo genérico, que define cómo buscar, contrastar y citar, y módulos por categoría que se añaden cuando hagan falta, como viajes, compras, o deporte y salud. Así no se duplica la metodología y cada módulo solo añade lo suyo.
+
+Los proyectos que ya tienes, el podcast personal y el plan de entrenamiento, podrían entrar en Akantor más adelante como proyectos a convertir en replicables. Es una de las preguntas de la sección ocho.
+
+Sección cuatro. Plan de herramientas.
+
+GitHub es el centro de todo. Es lo único que vuestras dos cuentas de Claude pueden leer y escribir a la vez, y guarda solo el historial de cada cambio.
+
+En GitHub, la recomendación es crear una organización gratuita con el nombre de la matriz, con los dos como propietarios, y dentro un único repositorio privado. GitHub Free permite repositorios privados ilimitados con colaboradores ilimitados, aunque con algunas funciones limitadas. ¿Por qué organización y no tu cuenta personal? Porque el proyecto es de los dos y no depende de ninguno. Y si un día una herramienta se convierte en app, puede tener su propio repositorio dentro de la misma organización. La alternativa más simple, un repositorio en tu cuenta e invitar a tu hermano, también funciona. La decides tú.
+
+Google Drive no hace falta al empezar. Se usará solo cuando un proyecto lo pida, por ejemplo una hoja de cálculo para el vigilante de precios, o archivos que no son texto, como PDF o audio. Si llega ese momento, el repositorio guardará el enlace y la explicación de cómo funciona ese archivo.
+
+Ahora, las capas de instrucciones y en qué se diferencian. Son cinco.
+
+La primera, las instrucciones personales. Viven en tu cuenta de Claude, solo las ves tú, y recogen tu forma de trabajar en cualquier tema, dentro o fuera de Akantor.
+
+La segunda, las instrucciones del proyecto de Claude. Viven en el proyecto de Claude de cada uno y solo las ve esa cuenta. Son una nota corta que dice: lee el CLAUDE punto md del repositorio y síguelo.
+
+La tercera, el CLAUDE punto md raíz. Vive en la carpeta principal del repositorio y lo ven los dos y cualquier Claude que abra el repositorio. Es la constitución: máximas, estructura y forma de trabajar de la empresa.
+
+La cuarta, el CLAUDE punto md de cada proyecto. Vive en la carpeta del proyecto, lo ven los dos, y recoge las reglas propias de ese proyecto.
+
+Y la quinta, STATUS punto md y DECISIONES punto md. Están en la raíz y en cada proyecto, los ven los dos, y son la memoria viva: dónde estamos, siguientes pasos y por qué se decidió cada cosa.
+
+La idea clave es esta. Las instrucciones del proyecto de Claude no se comparten entre cuentas, así que no deben guardar reglas importantes. Las reglas viven en el repositorio, y así los dos trabajáis con exactamente lo mismo. El texto para pegar en cada cuenta también se guarda en el repositorio, para que sea idéntico.
+
+Cómo lo lee Claude. Cuando Claude Code trabaja en el repositorio, al arrancar carga el CLAUDE punto md de la carpeta en la que trabaja y los de las carpetas superiores. Y carga el de una subcarpeta cuando entra a trabajar en ella, según la documentación oficial de memoria de Claude Code. Eso encaja con la idea de memoria unificada más memoria por proyecto. Este mismo proyecto de Claude puede tener el repositorio conectado desde los ajustes del proyecto, en el apartado de recursos. Los chats normales de Claude también pueden añadir archivos de GitHub como conocimiento del proyecto. Según una guía no oficial, hay que pulsar sincronizar tras cada cambio, pero eso no se ha confirmado en la documentación oficial.
+
+Cómo trabajáis a la vez sin pisaros. La regla es simple: Claude trae los últimos cambios al empezar cada sesión y los sube al terminar. Si los dos tocáis el mismo archivo a la vez, Claude junta los cambios y te explica qué hizo. Nada más complejo hasta que haga falta, como dice la máxima cuatro.
+
+Seguridad desde el primer día. Ninguna contraseña, clave de API ni dato personal de terceros entra en el repositorio. Es la parte mínima de ciberseguridad que sí conviene tener ya, porque deshacerla después es difícil.
+
+Sección cinco. Estructura de carpetas y plantillas.
+
+Una sola forma de carpeta para todo, con cuatro archivos por proyecto. El historial de Git ya registra solo qué cambió y quién. DECISIONES punto md guarda lo que Git no sabe: el porqué. Por eso no se propone un registro de cambios aparte, que sería trabajo manual repetido.
+
+La carpeta principal, akantor, contiene estos archivos. CLAUDE punto md, que es la constitución con las máximas y la forma de trabajar. README punto md, que explica qué es Akantor para humanos. STATUS punto md, la memoria unificada con los proyectos activos y las prioridades. DECISIONES punto md, con las decisiones de empresa y su porqué. E INSTRUCCIONES guion CLAUDE punto md, con el texto que cada uno pega en su proyecto de Claude.
+
+Además tiene cuatro carpetas. La carpeta organigrama, con el mapa visual, que se actualiza con cada proyecto. La carpeta departamentos, con un documento para research, que es la metodología común de investigación, y otros para desarrollo, ciberseguridad e interfaz. La carpeta plantillas, con una plantilla de proyecto que se copia entera para cada proyecto nuevo. Y la carpeta proyectos, con una subcarpeta para cada uno: DJ personal, researcher, asesor de compra, vigilante de precios y viaje a China.
+
+Cada proyecto tiene cuatro archivos. El README, que explica qué es, para quién y cómo se usa. El CLAUDE punto md, con sus reglas propias. El STATUS, con dónde estamos y los siguientes pasos. Y el DECISIONES, con qué se decidió y por qué.
+
+Los departamentos empiezan casi vacíos y se llenan solo cuando un proyecto lo necesita, por la máxima cuatro. El de research sí tiene contenido desde el principio, porque lo usan tres proyectos.
+
+La plantilla de STATUS es la que más se usa, y se actualiza al final de cada sesión. Empieza con el título "Estado", el nombre del proyecto, y la fecha y autor de la última actualización. Luego tiene estos apartados: en una frase, qué es y en qué punto está. Lo hecho en la última sesión. Los siguientes pasos, en orden. Los bloqueos y preguntas abiertas. Y las ideas propuestas por la inteligencia artificial, pendientes de decidir.
+
+La plantilla de DECISIONES es una tabla con una línea por decisión, la más nueva arriba. Cada línea tiene fecha, quién, la decisión y el porqué. Por ejemplo: tres de noviembre de dos mil veintiséis, Unai, un solo repositorio privado, porque es lo más simple para empezar.
+
+La plantilla del README recoge qué problema resuelve, para quién, cómo se usa en tres pasos, qué necesita, como cuentas o conectores, y el estado actual en una línea.
+
+Y la plantilla del CLAUDE punto md de cada proyecto recoge el objetivo, las reglas propias, las fuentes o herramientas que usa, y la línea: este proyecto sigue el CLAUDE punto md raíz de Akantor.
+
+Sección seis. Borrador de instrucciones generales.
+
+Este es el borrador del CLAUDE punto md raíz. Cuando lo apruebes, o lo cambies, se sube tal cual al repositorio.
+
+Título: Akantor, instrucciones generales. Akantor es la empresa matriz de Unai y su hermano: un laboratorio de herramientas con inteligencia artificial pensadas para que cualquier persona pueda usarlas. Responde siempre en español.
+
+Al empezar cada sesión. Uno: trae los últimos cambios del repositorio. Dos: lee este archivo, el STATUS raíz y, si se trabaja en un proyecto, su CLAUDE punto md y su STATUS. Tres: resume en dos o tres líneas dónde estamos y qué toca, y confirma con la persona antes de seguir.
+
+Máximas obligatorias. Uno, replicable: todo se piensa para que otros lo usen; lo personal va en configuración aparte, nunca metido en el código o en las reglas. Dos, orden: todos los proyectos usan la plantilla de proyecto. Tres, seguimiento: al terminar, actualiza el STATUS, y DECISIONES si se decidió algo, y sube los cambios. Cuatro, presente primero: no resuelvas problemas futuros por adelantado; cuando aparezca uno, propón cómo resolverlo.
+
+Cinco, que se entienda: antes de ejecutar, explica el plan en pasos numerados, claros y cortos, y espera el adelante de la persona. Tú propones; la persona decide. Seis, pregunta en vez de suponer: si falta un dato, para y pregunta. Si algo no tiene sentido, tiene una prioridad rara o necesita algo antes, como instalar, crear una cuenta o un permiso, avísalo y pregunta.
+
+Siete, propón ideas: sugiere mejoras, riesgos y caminos que te parezcan relevantes, sin esperar a que se le ocurran a la persona. Ocho, autoauditoría: si la petición tiene varios puntos, comprueba uno por uno que se cumplen, y corrige lo que falle antes de responder.
+
+Nueve, no inventes: usa fuentes contrastadas y actuales, como documentación oficial, especialistas o foros como Reddit, y cítalas. Si algo no lo encuentras, dilo: esto no lo he encontrado. Nunca lo estimes. Diez, las reglas suben: si en un proyecto aparece una regla que debería valer para todos, avísalo y propón moverla aquí.
+
+Seguridad: nunca subas contraseñas, claves de API ni datos personales de terceros al repositorio.
+
+Proyectos nuevos: copia la plantilla de proyecto a la carpeta de proyectos, con el nombre en minúsculas. Rellena el README y el CLAUDE punto md con la persona, y añade el proyecto al STATUS raíz y al organigrama.
+
+Y este es el texto para pegar en las instrucciones del proyecto de Claude, igual para los dos: Trabajamos en Akantor. Las reglas están en el repositorio: lee y sigue siempre el CLAUDE punto md raíz y el del proyecto en el que trabajemos. Si algo de aquí contradice al repositorio, manda el repositorio.
+
+Las máximas ocho y nueve ya están en tus instrucciones personales. Se repiten aquí para que también se apliquen cuando trabaje tu hermano con su cuenta. Si tienes más buenas prácticas en tus instrucciones personales que quieras subir a la empresa, se pueden añadir.
+
+Sección siete. Propuestas de nombre.
+
+Los tres favoritos son Rizoma, Dióscuros y Akantor, por este orden. Rizoma describe exactamente cómo quieres que crezca la empresa. Dióscuros cuenta que es cosa de dos hermanos. Y Akantor guarda el recuerdo que os une.
+
+Rizoma viene de la botánica y la filosofía. Es un tallo que crece bajo tierra en horizontal y echa raíces y brotes desde cualquier punto. Encaja porque es tu organigrama: crece en red y las ramas se conectan entre sí.
+
+Dióscuros viene de la mitología griega. Son Cástor y Pólux, los hermanos inseparables. Encaja porque es una empresa de dos hermanos, sin el cliché del dios creador.
+
+Akantor viene de Monster Hunter Freedom Unite. Es el monstruo de vuestra infancia. Es personal y tiene un sonido fuerte. El riesgo es que es el nombre de una criatura de un videojuego de Capcom.
+
+Shokunin es una palabra japonesa. Significa el artesano que dedica la vida a perfeccionar su oficio. Encaja con el espíritu del researcher: dominar algo al máximo.
+
+Monozukuri, también japonés, es el arte y el orgullo de hacer cosas bien hechas. Encaja con crear por el gusto de crear.
+
+Shuhari, japonés, son las tres etapas de la maestría: seguir la regla, romperla y trascenderla. Encaja con iterar miles de veces hasta dominar cada herramienta.
+
+Poiesis viene del griego y significa el acto de traer algo a la existencia. Encaja con convertir ideas vagas en herramientas reales.
+
+Metis, también griego, es la inteligencia práctica y astuta, la que resuelve sobre la marcha. Encaja con la máxima cuatro: resolver los problemas cuando llegan.
+
+Faber viene del latín. Es el artesano, el que fabrica, como en homo faber, el ser humano que hace herramientas. Encaja porque la empresa literalmente fabrica herramientas.
+
+Y Telar, en español, es la máquina donde se cruzan muchos hilos para formar una sola tela. Encaja con muchos proyectos distintos tejidos con las mismas reglas.
+
+Se descartaron Kaizen e Ikigai porque los usan muchísimas empresas. No se ha podido comprobar si estos nombres están libres en GitHub, ni dominios web ni marcas registradas. Antes de crear la organización, lo miras en un minuto al escribir el nombre en GitHub, que te dice si está cogido.
+
+Sección ocho. Primeros pasos y preguntas.
+
+Son ocho pasos. Algunos necesitan tus manos, porque Claude no puede crear cuentas, organizaciones ni repositorios en GitHub. Todo lo demás lo hace Claude y te lo explica antes.
+
+Paso uno, para Unai: elegir nombre, o quedarse con Akantor de momento. Va primero porque la organización de GitHub lleva ese nombre.
+
+Paso dos, para Unai: crear la organización gratuita en GitHub y, dentro, un repositorio privado vacío con el mismo nombre.
+
+Paso tres, para Unai: invitar a tu hermano a la organización como propietario. Necesita una cuenta de GitHub.
+
+Paso cuatro, para Unai: conectar el repositorio al proyecto de Claude, en los ajustes del proyecto, apartado de recursos. Tu hermano hará lo mismo en su cuenta.
+
+Paso cinco, para Claude: crear la estructura de carpetas, las plantillas y el CLAUDE punto md raíz aprobado, en una propuesta de cambio para que la reviséis antes de que entre.
+
+Paso seis, para Unai y su hermano: pegar el texto corto de la sección seis en las instrucciones de vuestro proyecto de Claude.
+
+Paso siete, para Claude: subir el organigrama al repositorio y mantenerlo al día con cada proyecto nuevo.
+
+Paso ocho, juntos: el primer proyecto. La propuesta es el DJ personal como piloto. El conector ya existe, cabe en una sesión y sirve para probar todo el circuito: plantilla, documento de estado y subir cambios. Después, el researcher, que es el motor de otros tres.
+
+Y las preguntas para ti.
+
+Una. ¿Organización de GitHub, que es la recomendación, o repositorio en tu cuenta personal?
+
+Dos. ¿Qué nombre eliges, o seguimos con Akantor como provisional?
+
+Tres. ¿Cómo se llama tu hermano y tiene ya cuenta de GitHub? ¿Qué plan de Claude usa cada uno?
+
+Cuatro. ¿Tenéis Spotify Premium? Sin él, el DJ no puede crear playlists a partir de una descripción.
+
+Cinco. ¿Cuándo es, más o menos, el viaje a China? Si es pronto, conviene adelantar el vigilante de vuelos.
+
+Seis. ¿Metemos el podcast personal y el plan de entrenamiento en Akantor para hacerlos replicables, o se quedan fuera por ahora?
+
+Siete. ¿Hay más buenas prácticas en tus instrucciones personales que quieras convertir en reglas de empresa?
+
+Sección nueve. Autoauditoría y fuentes.
+
+Se ha comprobado punto por punto que todo lo pedido está cubierto. La visión ordenada, en la sección uno. Las máximas, incluidas preguntar, proponer, autoauditoría y no inventar, en la sección dos, con nueve tuyas y una propuesta marcada. Los proyectos semilla, en la sección tres. GitHub, Drive, cómo compartir con tu hermano y las capas de instrucciones, en la sección cuatro. La estructura de carpetas y las plantillas, en la cinco. El borrador de instrucciones generales, en la seis. Diez nombres con significado, Akantor incluido, en la siete. El organigrama visual, en un enlace aparte. Y por dónde empezar y qué necesita tus manos, en la sección ocho.
+
+Lo que no se ha podido comprobar: la disponibilidad de los nombres en GitHub, dominios y marcas; la lista completa de acciones del conector de Spotify; y si la sincronización de GitHub en los chats de Claude es manual según la documentación oficial.
+
+Las fuentes consultadas son los planes y precios de GitHub, la documentación de memoria de Claude Code, el anuncio de Spotify en Claude del veintitrés de abril de dos mil veintiséis, y una guía no oficial sobre GitHub en proyectos de Claude.
+
+Fin del plan fundacional.
