@@ -11,6 +11,14 @@
     <itunes:block>Yes</itunes:block>
     <itunes:category text="News"/>
     <item>
+      <title>Briefing 2026-11-17</title>
+      <description>Briefing del 2026-11-17</description>
+      <pubDate>Tue, 17 Nov 2026 05:00:00 +0100</pubDate>
+      <guid isPermaLink="false">briefing-2026-11-17</guid>
+      <enclosure url="https://UnaiOtazu.github.io/briefing-a7x9/episodes/2026-11-17.mp3" length="3920544" type="audio/mpeg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Briefing 2026-11-16</title>
       <description>Briefing del 2026-11-16</description>
       <pubDate>Mon, 16 Nov 2026 05:00:00 +0100</pubDate>
@@ -112,14 +120,6 @@
       <pubDate>Thu, 29 Oct 2026 05:00:00 +0100</pubDate>
       <guid isPermaLink="false">briefing-2026-10-29</guid>
       <enclosure url="https://UnaiOtazu.github.io/briefing-a7x9/episodes/2026-10-29.mp3" length="3626784" type="audio/mpeg"/>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Briefing 2026-10-28</title>
-      <description>Briefing del 2026-10-28</description>
-      <pubDate>Wed, 28 Oct 2026 05:00:00 +0100</pubDate>
-      <guid isPermaLink="false">briefing-2026-10-28</guid>
-      <enclosure url="https://UnaiOtazu.github.io/briefing-a7x9/episodes/2026-10-28.mp3" length="3898368" type="audio/mpeg"/>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
