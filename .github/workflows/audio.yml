@@ -16,12 +16,13 @@ concurrency:
   group: briefing
   cancel-in-progress: false
 
+# La subida del paquete de la web y su publicación van en trabajos separados,
+# como en la plantilla oficial de GitHub Pages. Si van en el mismo trabajo, la
+# publicación a veces busca el paquete antes de que GitHub lo liste y falla con
+# "No artifacts named github-pages" (actions/deploy-pages#451).
 jobs:
   audio:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -49,6 +50,30 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
+
+  publicar:
+    needs: audio
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Publicar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  # Red de seguridad: si la publicación falla por un problema puntual de
+  # GitHub, espera un minuto y lo vuelve a intentar con el mismo paquete.
+  reintentar-publicacion:
+    needs: publicar
+    if: ${{ failure() && needs.publicar.result == 'failure' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Esperar un minuto
+        run: sleep 60
+      - name: Publicar en GitHub Pages (segundo intento)
         id: deployment
         uses: actions/deploy-pages@v4
